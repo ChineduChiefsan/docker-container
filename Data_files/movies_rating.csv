@@ -1,0 +1,1807 @@
+year,genre,title,movieRating,duration,avg_vote
+2005,"Comedy, Horror, Sci-Fi",The Naked Monster,okay,100,5.6
+2005,Drama,What Is It?,okay,72,5.6
+2005,"Action, Adventure, Fantasy",Fantastic Four,okay,106,5.7
+2005,"Animation, Drama, Family",Corpse Bride,good,77,7.3
+2005,"Action, Adventure, Fantasy",Star Wars: Episode III - Revenge of the Sith,good,140,7.5
+2005,"Comedy, Drama",Shooting Vegetarians,okay,76,4.8
+2005,"Crime, Drama, Thriller",The Prodigy,okay,120,5.5
+2005,Comedy,Angels with Angles,okay,87,4.8
+2005,"Crime, Drama, Mystery",Firecracker,okay,112,5.4
+2005,"Comedy, Family",Bob the Butler,okay,90,5.5
+2005,Comedy,Bad Girls from Valley High,,84,3.5
+2005,"Crime, Drama, Thriller",Ripley Under Ground,good,101,6.1
+2005,"Comedy, Romance",Lucky 13,okay,95,4.6
+2005,"Sci-Fi, Thriller",Cl.One,,112,3.3
+2005,Comedy,Fortunes,okay,91,4.3
+2005,Drama,Water,good,117,7.7
+2005,"Adventure, Family, Fantasy",Mee-Shee: The Water Giant,okay,95,5.3
+2005,"Comedy, Drama",In Memory of My Father,okay,96,6.0
+2005,"Comedy, Horror",Cursed,okay,97,5.0
+2005,Thriller,Imposture,good,101,6.4
+2005,"Comedy, Horror",2001 Maniacs,okay,87,5.3
+2005,"Animation, Adventure, Sci-",Thru the Moebius Strip,okay,87,5.1
+2005,"Comedy, Sport",The Ringer,okay,94,5.8
+2005,"Horror, Sci-Fi",From Venus,okay,88,4.5
+2005,Drama,Heaven's Neighbors,good,115,7.1
+2005,"Crime, Drama",Havoc,okay,85,5.5
+2005,"Comedy, Romance",Alchemy,okay,86,5.4
+2005,"Adventure, Drama, War",Iluminados por el fuego,good,100,6.8
+2005,"Action, Adventure, Horror",Man-Thing,okay,97,4.0
+2005,"Adventure, Drama, Family",The Keeper: The Legend of Omar Khayyam,good,95,6.4
+2005,"Drama, Musical, Romance",Rent,good,135,6.9
+2005,"Action, Adventure, Romance",The Sea Wolf,,94,3.6
+2005,"Drama, Romance",Going Shopping,okay,106,4.7
+2005,Drama,The Civilization of Maxwell Bright,good,107,6.5
+2005,"Comedy, Romance",All Babes Want to Kill Me,okay,82,4.0
+2005,Thriller,Black Wine,okay,88,4.3
+2005,"Action, Thriller",Dark Assassin,,82,3.3
+2005,"Comedy, Drama, Mystery",Love Thy Neighbor,,89,3.6
+2005,"Comedy, Romance",Funny Valentine,okay,90,4.4
+2005,"Comedy, Sport",Les Boys IV,okay,121,4.9
+2005,"Action, Romance, Comedy",Extreme Dating,okay,96,5.2
+2005,"Drama, Crime",Tracks,okay,92,5.0
+2005,"Animation, Adventure, Come",The Curse of the Were-Rabbit,good,85,7.4
+2005,"Comedy, Drama, Thriller",Break a Leg,okay,98,5.1
+2005,Drama,Constellation,,96,3.8
+2005,"Comedy, Drama, Family",Because of Winn-Dixie,good,106,6.3
+2005,"Action, Adventure, Horror",A Sound of Thunder,okay,101,4.2
+2005,"Action, Adventure, Comedy",Sahara,okay,124,6.0
+2005,"Comedy, Drama",Thumbsucker,good,96,6.6
+2005,"Drama, Romance",El viento,good,92,6.8
+2005,"Action, Adventure, Drama",Kingdom of Heaven,good,144,7.2
+2005,"Crime, Drama",Blodsbröder,bad,90,2.8
+2005,Comedy,Ze film,okay,105,5.4
+2005,Mystery,Los suicidas,okay,80,5.5
+2005,"Comedy, Drama, Romance",Sabah,good,86,6.8
+2005,"Comedy, Romance","Jesus, Mary and Joey",okay,105,4.8
+2005,"Drama, Thriller",Her Name Is Carla,okay,85,5.0
+2005,"Action, Drama, War",The Great Raid,good,132,6.7
+2005,"Comedy, Family",The Bike Squad,,79,3.1
+2005,"Comedy, Romance",Dirty Love,,91,3.6
+2005,"Animation, Action, Adventu",Lung do kei yuen,okay,85,4.9
+2005,"Comedy, Drama",My Suicidal Sweetheart,okay,115,5.5
+2005,"Drama, History, Musical",Taj Mahal: An Eternal Love Story,okay,164,5.2
+2005,"Action, Adventure, Crime",xXx: State of the Union,okay,101,4.4
+2005,"Adventure, Family, Fantasy",Harry Potter and the Goblet of Fire,good,157,7.7
+2005,"Comedy, Crime",Man of the House,okay,100,5.4
+2005,"Comedy, Drama, Romance",Fever Pitch,good,104,6.2
+2005,"Crime, Drama, Horror",Antikörper,good,127,7.0
+2005,"Crime, Drama, Thriller",Dot.Kill,okay,87,4.7
+2005,"Drama, Mystery, Romance",Keep Your Distance,okay,94,5.2
+2005,"Action, Crime, Drama",Zerkalnye voyny. Otrazhenie pervoe,bad,109,2.9
+2005,"Drama, Romance",The Trouble with Men and Women,okay,80,4.7
+2005,"Action, Comedy, Musical",Sledge: The Untold Story,,83,3.5
+2005,"Comedy, Crime, Drama",Nowhere Man,,78,3.7
+2005,"Drama, Romance",Shopgirl,good,106,6.3
+2005,"Sci-Fi, Action, Comedy",Diamond Zero,okay,85,4.3
+2005,"Action, Adventure, Family",Beauty and the Beast,okay,90,4.1
+2005,"Animation, Adventure, Come",The Magic Roundabout,okay,85,5.2
+2005,"Comedy, Drama, Music",Daltry Calhoun,okay,100,5.1
+2005,"Action, Biography, Drama",Strike the Tent,okay,96,5.3
+2005,"Action, Crime, Drama",Hostage,good,113,6.6
+2005,"Biography, Drama",Self Medicated,okay,107,5.7
+2005,"Action, Crime, Drama",Unleashed,good,103,7.0
+2005,"Comedy, Crime, Drama",Dear Wendy,good,105,6.6
+2005,Drama,Manderlay,good,139,7.3
+2005,"Drama, Fantasy, Music",The PianoTuner of EarthQuakes,good,99,6.3
+2005,"Drama, War",Äideistä parhain,good,111,7.6
+2005,Comedy,Fugitives Run,,83,3.1
+2005,"Drama, Romance",The Lost City,good,144,6.6
+2005,"Biography, Drama, History",Mangal Pandey: The Rising,good,150,6.6
+2005,Comedy,Waiting...,good,94,6.8
+2005,"Drama, Romance, Thriller",Asylum,good,99,6.1
+2005,"Comedy, Fantasy, Horror",Die You Zombie Bastards!,okay,97,4.4
+2005,"Biography, Drama, History",Netaji Subhas Chandra Bose: The Forgotten Hero,good,208,7.5
+2005,"Comedy, Horror",Slaughterhouse of the Rising Sun,,82,3.7
+2005,"Drama, Family, Romance",An Unfinished Life,good,108,7.0
+2005,Drama,Zwarte zwanen,good,95,6.3
+2005,"Animation, Adventure, Come",Madagascar,good,86,6.9
+2005,Drama,Tweek City,okay,86,4.0
+2005,"Biography, Drama, History",Cinderella Man,good,144,8.0
+2005,"Action, Adventure, Comedy",The Crow: Wicked Prayer,,99,3.0
+2005,"Drama, History, Sport",The Game of Their Lives,good,101,6.1
+2005,"Action, Adventure, Comedy",The Brothers Grimm,okay,118,5.9
+2005,"Comedy, Drama, Fantasy",The Illustrated Family Doctor,okay,102,5.8
+2005,"Biography, Drama, Sport",Lords of Dogtown,good,107,7.1
+2005,"Comedy, Drama, Romance",The Family Stone,good,103,6.3
+2005,"Action, Comedy, Crime",Mr. & Mrs. Smith,good,120,6.5
+2005,Drama,The Ballad of Jack and Rose,good,112,6.6
+2005,"Thriller, Crime, Romance",Rx,okay,89,5.4
+2005,"Action, Adventure, Crime",Elektra,okay,97,4.7
+2005,"Drama, Horror, Mystery",Boogeyman,okay,89,4.2
+2005,"Horror, Thriller",Dr. Rage,bad,88,2.6
+2005,"Animation, Adventure, Come",Robots,good,91,6.3
+2005,"Biography, Drama, Music",Walk the Line,good,136,7.8
+2005,"Action, Thriller",Into the Sun,okay,97,4.4
+2005,"Adventure, Sci-Fi",Ainoa,okay,95,4.9
+2005,"Drama, Horror, Mystery",Silence Becomes You,okay,88,4.3
+2005,"Comedy, Drama, Romance",Standing Still,okay,90,5.7
+2005,"Action, Fantasy, Horror",Constantine,good,121,7.0
+2005,"Action, Adventure, Drama",King Kong,good,187,7.2
+2005,"Animation, Adventure, Come",Valiant,okay,76,5.5
+2005,"Comedy, Drama, Music",Happy Endings,good,128,6.3
+2005,"Adventure, Drama, Family",Duma,good,100,7.2
+2005,"Comedy, Family, Fantasy",Son of the Mask,bad,94,2.2
+2005,Drama,Hermanas,good,88,6.5
+2005,Drama,Monobloc,okay,83,4.8
+2005,"Drama, Romance",Bewafaa,okay,149,4.3
+2005,"Comedy, Drama, Romance",Bigger Than the Sky,okay,106,5.9
+2005,"Adventure, Family, Fantasy","The Chronicles of Narnia: The Lion, the Witch and t",good,143,6.9
+2005,"Drama, Romance",Lovesick,,93,3.4
+2005,"Biography, Drama",Le promeneur du Champ de Mars,good,116,7.1
+2005,"Comedy, Fantasy, Horror",The Gingerdead Man,,70,3.4
+2005,"Drama, Romance",Neo Ned,good,97,7.1
+2005,"Thriller, Action, Adventur",The Unknown,,85,3.4
+2005,"Comedy, Romance",Dating Games People Play,okay,95,5.0
+2005,"Adventure, Comedy, Sci-Fi",Man with the Screaming Brain,okay,90,5.6
+2005,"Comedy, Drama",Las mantenidas sin sueños,good,97,6.9
+2005,"Comedy, Crime, Thriller",The Matador,good,96,6.7
+2005,"Action, Crime, Drama",Revolver,good,111,6.4
+2005,"Drama, Thriller",Syriana,good,128,6.9
+2005,"Action, Adventure, Comedy",San wa,good,122,6.1
+2005,"Comedy, Drama",The Upside of Anger,good,118,6.8
+2005,Drama,Géminis,okay,85,6.0
+2005,"Drama, Fantasy, Mystery",The Jacket,good,103,7.1
+2005,"Action, Drama",Lethal,bad,90,2.5
+2005,"Adventure, Fantasy",Mirrormask,good,101,6.8
+2005,"Drama, Romance, War",Sorstalanság,good,140,6.9
+2005,"Comedy, Drama",The Squid and the Whale,good,81,7.3
+2005,"Adventure, Comedy, Family",Charlie and the Chocolate Factory,good,115,6.6
+2005,Comedy,Deuce Bigalow: European Gigolo,okay,83,4.7
+2005,Drama,Hallesche Kometen,good,83,6.7
+2005,"Comedy, Musical, Romance",Romance & Cigarettes,good,105,6.3
+2005,Thriller,Trouble,okay,98,5.8
+2005,"Romance, Thriller",Echoes of Innocence,okay,118,5.2
+2005,"Comedy, Romance",Americano,good,95,6.1
+2005,"Adventure, Comedy, Family",Are We There Yet?,okay,95,4.7
+2005,"Drama, Family, Comedy",Crab Orchard,okay,90,4.4
+2005,"Comedy, Drama, Romance",Elizabethtown,good,123,6.4
+2005,"Drama, Horror",The Lazarus Child,okay,93,5.0
+2005,"Crime, Drama, Romance",Separate Lies,good,85,6.4
+2005,"Action, Horror, Sci-Fi",Alone in the Dark,bad,96,2.4
+2005,"Action, Adventure, Comedy",Bal-Can-Can,good,89,7.7
+2005,"Comedy, Crime",Fun with Dick and Jane,good,90,6.1
+2005,"Comedy, Romance",Monster-in-Law,okay,101,5.5
+2005,Comedy,Strangers with Candy,okay,97,6.0
+2005,"Drama, Music, Romance",Shooting Livien,okay,90,5.4
+2005,"Drama, Mystery, Thriller",Stay,good,99,6.8
+2005,"Action, Adventure, Fantasy",Tetsujin niju-hachigo,okay,113,5.2
+2005,"Comedy, Drama, Romance",Window Theory,,87,3.9
+2005,"Drama, Fantasy, Horror",Beneath Still Waters,,96,3.8
+2005,"Animation, Adventure, Come",Chicken Little,okay,81,5.7
+2005,"Adventure, Action, Fantasy",Forbidden Warrior,,91,3.5
+2005,"Adventure, Comedy, Sci-Fi",The Hitchhiker's Guide to the Galaxy,good,109,6.7
+2005,"Crime, Drama, Horror",The Zodiac,okay,92,5.4
+2005,"Drama, Horror, Thriller",La monja,okay,101,4.0
+2005,"Action, Crime, Drama",Secuestro express,good,90,6.5
+2005,"Comedy, Drama, Music",Adam & Steve,okay,99,5.9
+2005,"Comedy, Romance",Guess Who,okay,105,5.9
+2005,"Animation, Adventure, Come",Dinotopia: Quest for the Ruby Sunstone,okay,75,5.2
+2005,"Crime, Drama",Iowa,okay,104,5.0
+2005,"Comedy, Romance",Sex Sells: The Making of 'Touché',okay,96,4.8
+2005,"Comedy, Romance",The Wedding Date,good,90,6.2
+2005,"Action, Adventure",Batman Begins,good,140,8.2
+2005,"Comedy, Romance",The Extra,okay,96,5.1
+2005,"Action, Comedy, Crime",Underclassman,okay,95,4.3
+2005,"Comedy, Drama, Romance",The Wendell Baker Story,okay,99,5.6
+2005,"Crime, Drama, Mystery",Where the Truth Lies,good,107,6.5
+2005,"Action, Comedy, Crime",Kiss Kiss Bang Bang,good,103,7.5
+2005,Drama,Casa de Areia,good,115,7.4
+2005,"Adventure, Drama","Cinema, Aspirinas e Urubus",good,99,7.4
+2005,"Action, Crime, Thriller",Der Clown,okay,104,4.4
+2005,"Comedy, Drama, Family",The Honeymooners,,90,3.3
+2005,"Crime, Mystery, Thriller",The Interpreter,good,128,6.4
+2005,Comedy,Khullam Khulla Pyaar Karen,okay,155,4.2
+2005,"Drama, History, War",Köshpendiler,okay,112,5.9
+2005,"Romance, Thriller",Replica,bad,66,1.6
+2005,"Adventure, Comedy",Searching for Bobby D,okay,105,4.8
+2005,"War, Action, Adventure",Turetskiy gambit,good,208,7.0
+2005,"Comedy, Fantasy, Romance",Bewitched,okay,102,4.8
+2005,"Adventure, Comedy, Family",Lenny the Wonder Dog,,84,3.3
+2005,"Comedy, Drama, Musical",On the One,okay,103,5.4
+2005,"Crime, Drama",Remedy,okay,82,4.1
+2005,"Drama, Horror, Mystery",White Noise,okay,101,5.5
+2005,Comedy,You and Your Stupid Mate,,85,3.9
+2005,Drama,Black,good,122,8.2
+2005,"Adventure, Comedy, Drama",Racing Stripes,okay,102,5.2
+2005,"Comedy, Family, Sport",Rebound,okay,86,5.1
+2005,"Action, Drama, Thriller",Anniyan,good,181,8.2
+2005,"Comedy, Drama, Romance",The Shadow Dancer,good,100,6.7
+2005,"Drama, Mystery, Thriller",Slow Burn,okay,93,5.8
+2005,Drama,Vida y color,good,90,6.1
+2005,"Comedy, Drama",Colour Me Kubrick: A True...ish Story,good,86,6.1
+2005,Thriller,Frozen,okay,90,5.8
+2005,Comedy,Guy in Row Five,okay,97,6.0
+2005,Comedy,Pizza,okay,80,5.7
+2005,Drama,The Californians,okay,87,4.8
+2005,"Crime, Drama",Hollywood Flies,okay,95,4.5
+2005,"Drama, Mystery",Proof,good,100,6.7
+2005,"Horror, Mystery, Thriller",The Ring Two,okay,110,5.4
+2005,"Drama, Romance, Thriller",Three,okay,95,4.9
+2005,"Comedy, Crime, Drama",Be Cool,okay,118,5.6
+2005,"Drama, Music",Don't Come Knocking,good,122,6.6
+2005,Comedy,The Dukes of Hazzard,okay,104,5.1
+2005,"Drama, Mystery, Romance",Erosion,okay,100,4.4
+2005,"Action, Adventure, Crime",Into the Blue,okay,110,5.8
+2005,"Action, Adventure, Crime",Left for Dead,,105,3.5
+2005,"Crime, Drama",Piggy Banks,okay,87,5.4
+2005,"Drama, Romance",Schneeland,good,142,6.8
+2005,"Action, Drama",Target of Opportunity,,88,3.8
+2005,"Action, Comedy, Thriller",Dead Fish,okay,98,5.4
+2005,Drama,Ghosts Never Sleep,okay,85,4.3
+2005,"Comedy, Family",Bailey's Billion$,,90,3.9
+2005,"Biography, Crime, Drama",Capote,good,114,7.3
+2005,"Action, Adventure, Sci-Fi",Serenity,good,119,7.8
+2005,"Action, Crime, Drama",Back in the Day,okay,103,4.4
+2005,"Drama, Romance, Sport",Goal!,good,118,6.7
+2005,"Crime, Drama",Oliver Twist,good,130,6.8
+2005,"Comedy, Family, Romance",The Perfect Man,okay,100,5.5
+2005,"Drama, Romance",Pogled sa Ajfelovog tornja,okay,92,4.7
+2005,"Comedy, Drama",Winter Passing,good,98,6.3
+2005,"Drama, Romance",Une aventure,okay,100,5.0
+2005,"Romance, Comedy",Flirt,okay,90,5.8
+2005,"Drama, Fantasy, Romance",The Last Sign,,91,3.3
+2005,"Comedy, Drama",Pretty Persuasion,good,104,6.5
+2005,"Action, Sci-Fi, Thriller",Slipstream,okay,89,4.5
+2005,Drama,Vers le sud,good,108,6.3
+2005,"Drama, Romance",The Good Humor Man,okay,112,6.0
+2005,"Drama, Romance",Heights,good,93,6.9
+2005,"Drama, Horror, Mystery",Hide and Seek,okay,101,6.0
+2005,"Crime, Drama, Mystery",La historia del baúl rosado,good,97,6.2
+2005,"Crime, Drama, Romance",Rosario Tijeras,good,126,6.3
+2005,"Action, Comedy, Crime",Vet hard,good,88,6.2
+2005,"Comedy, Drama, Romance",Things to Do Before You're 30,okay,101,5.6
+2005,"Action, Comedy, Drama",Die Bluthochzeit,good,92,6.6
+2005,Drama,Dallas Pashamende,good,93,6.5
+2005,"Drama, Horror, Mystery",Dark Water,okay,105,5.6
+2005,"Drama, Mystery, Romance",Look Both Ways,good,100,7.0
+2005,"Crime, Drama, Romance",Little Fish,good,114,6.2
+2005,"Action, Sci-Fi, Western",Planetfall,,90,3.0
+2005,"Adventure, Comedy, Family",Kameleon 2,okay,105,5.9
+2005,"Action, Adventure, Sci-Fi",Stealth,okay,121,5.1
+2005,"Comedy, Drama, Music",Vom Suchen und Finden der Liebe,okay,107,5.7
+2005,"Action, Adventure, Fantasy",BloodRayne,bad,95,2.9
+2005,"Crime, Mystery, Thriller",Deepwater,okay,93,5.4
+2005,"Comedy, Horror, Sci-Fi",Evil Aliens,okay,93,5.3
+2005,Comedy,Mall Cop,okay,87,5.0
+2005,Drama,Mouth to Mouth,good,103,6.2
+2005,"Comedy, Drama, Music",Sueño,okay,108,5.2
+2005,"Crime, Drama",Police Beat,good,80,6.7
+2005,"Comedy, Sport",Af banen,okay,80,5.0
+2005,"Drama, Horror, Mystery",Cry Wolf,okay,90,5.8
+2005,Drama,Swimmers,good,90,6.5
+2005,"Comedy, Family, Romance",Kicking & Screaming,okay,95,5.6
+2005,"Comedy, Drama",The Weather Man,good,102,6.5
+2005,"Drama, History, Romance",The White Countess,good,135,6.6
+2005,"Drama, War",Missing in America,good,102,6.6
+2005,Horror,The Amityville Horror,okay,90,6.0
+2005,"Drama, Romance",Trouble with Sex,okay,88,5.2
+2005,"Drama, Romance",The Dying Gaul,good,92,6.4
+2005,"Crime, Drama, Sport",Hooligans,good,109,7.5
+2005,"Comedy, Drama, Romance",How the Garcia Girls Spent Their Summer,good,128,6.3
+2005,"Comedy, Drama",Lonesome Jim,good,91,6.6
+2005,Comedy,The Long Weekend,okay,85,5.2
+2005,"Action, Comedy, Crime",Miss Congeniality 2: Armed & Fabulous,okay,115,5.1
+2005,Horror,Boo,okay,94,4.2
+2005,"Action, Crime, Drama",Crash Landing,,88,3.7
+2005,"Animation, Action, Adventu",Fainaru fantajî sebun adobento chirudoren,good,101,7.2
+2005,Comedy,The Godfather of Green Bay,okay,90,5.6
+2005,Comedy,My Big Fat Independent Movie,,80,3.2
+2005,"Comedy, Crime",Le parfum de la dame en noir,okay,115,5.7
+2005,"Action, Adventure, Romance",The Legend of Zorro,okay,129,5.9
+2005,Drama,Duck,okay,96,6.0
+2005,"Drama, Mystery, Thriller",Inside Out,okay,90,5.4
+2005,"Comedy, Romance",Hitch,good,118,6.6
+2005,"Comedy, Romance",Love for Rent,good,96,7.0
+2005,"Drama, Mystery, Thriller",The River King,okay,99,5.8
+2005,Comedy,Store planer!,okay,96,5.4
+2005,Action,The Vault,bad,87,1.9
+2005,"Drama, Romance",Aurora Borealis,good,110,6.7
+2005,"Crime, Drama",Batalla en el cielo,okay,98,5.6
+2005,"Drama, Family",Bee Season,okay,104,5.5
+2005,"Crime, Horror, Thriller",Cold and Dark,okay,94,4.0
+2005,"Drama, Mystery, Romance",The Constant Gardener,good,129,7.4
+2005,"Mystery, Thriller, Drama",The Iris Effect,,90,3.2
+2005,"Comedy, Drama, Romance",Prime,good,105,6.2
+2005,"Horror, Thriller",The Roost,okay,80,4.9
+2005,"Drama, Mystery, Thriller",Caché,good,117,7.3
+2005,"Comedy, Drama, Romance",In Her Shoes,good,130,6.4
+2005,"Comedy, Crime",King's Ransom,okay,95,4.3
+2005,Comedy,The L.A. Riot Spectacular,okay,80,4.9
+2005,"Drama, Romance",Loverboy,okay,84,5.4
+2005,Comedy,My Big Phat Hip Hop Family,bad,108,1.6
+2005,Drama,Paha maa,good,130,7.4
+2005,"Action, Adventure, Drama",River Queen,okay,114,6.0
+2005,"Action, Thriller",Transporter 2,good,87,6.3
+2005,Comedy,Beauty Shop,okay,105,5.5
+2005,Drama,"Va, vis et deviens",good,140,7.9
+2005,Drama,Anklaget,good,103,7.0
+2005,"Drama, Romance",Brokeback Mountain,good,134,7.7
+2005,"Drama, Mystery, Thriller",The Circle,okay,103,5.6
+2005,"Action, Comedy, Sci-Fi",The Girl from Monday,okay,84,5.2
+2005,"Biography, Drama, History",The Greatest Game Ever Played,good,120,7.4
+2005,"Comedy, Crime, Music",Johnny Slade's Greatest Hits,okay,88,6.0
+2005,Drama,O Signo do Caos,good,80,6.7
+2005,Drama,Budjenje iz mrtvih,good,134,6.5
+2005,"Action, Adventure, Drama",Deck Dogz,okay,90,4.9
+2005,"Action, Crime, Drama",Edison,okay,99,5.3
+2005,"Comedy, Drama, Family",Waqt: The Race Against Time,good,153,6.8
+2005,"Comedy, Drama, Romance",A Lot Like Love,good,107,6.6
+2005,"Crime, Drama, Romance",A Perfect Fit,okay,85,5.2
+2005,Drama,Three Dollars,good,118,6.2
+2005,"Comedy, Drama, Romance",Adam and Eve,okay,91,4.5
+2005,"Thriller, Drama",Confess,okay,89,5.0
+2005,"Comedy, Drama, Romance",Mozart and the Whale,good,94,6.9
+2005,Comedy,When Do We Eat?,okay,86,5.9
+2005,"Action, Crime, Drama",Brick,good,110,7.3
+2005,"Biography, Drama, Sport",Coach Carter,good,136,7.3
+2005,Drama,Leef!,good,110,6.9
+2005,Drama,The Nickel Children,okay,95,5.5
+2005,"Horror, Mystery, Thriller",Reeker,okay,90,5.2
+2005,"Comedy, Fantasy, Horror",Santa's Slay,okay,78,5.3
+2005,"Romance, Comedy",The Third Wish,okay,93,4.3
+2005,"Comedy, Musical",The Producers,good,134,6.3
+2005,Drama,3 Needles,good,127,6.4
+2005,Drama,Bab'Aziz,good,96,7.6
+2005,Drama,Bye Bye Blackbird,okay,99,5.8
+2005,"Drama, Music, Romance",Forty Shades of Blue,good,108,6.2
+2005,"Comedy, Drama",Le courage d'aimer,okay,103,5.8
+2005,Drama,States of Grace,good,128,6.8
+2005,Horror,The Devil's Rejects,good,107,6.8
+2005,"Drama, Horror, Mystery",House of 9,okay,86,5.5
+2005,"Action, Comedy, Drama",The Pacifier,okay,95,5.6
+2005,"Drama, Western",Truce,okay,106,5.9
+2005,Drama,North Country,good,126,7.3
+2005,Action,Pit Fighter,okay,83,4.5
+2005,"Drama, Comedy",Maman Last Call,good,96,6.1
+2005,"Comedy, Romance",Wedding Crashers,good,119,6.9
+2005,"Drama, Crime",Willenbrock,good,105,6.8
+2005,Drama,FAQs,okay,95,5.8
+2005,"Comedy, Drama, Family",Ice Princess,okay,98,6.0
+2005,"Drama, Thriller",The King,good,105,6.7
+2005,"Drama, History, Musical",Kisna: The Warrior Poet,okay,170,4.5
+2005,"Comedy, Family, Fantasy",Nanny McPhee,good,97,6.5
+2005,"Action, Crime, Drama",Shadowboxer,okay,93,5.5
+2005,Horror,House of Wax,okay,108,5.3
+2005,"Drama, Horror, Mystery",The Skeleton Key,good,104,6.5
+2005,"Adventure, Drama",Smile,good,107,6.3
+2005,"Comedy, Crime",Drop Dead Sexy,okay,83,5.0
+2005,"Action, Drama",Game Over,bad,90,2.8
+2005,Drama,Man to Man,good,122,6.5
+2005,"Drama, Romance",Memoirs of a Geisha,good,145,7.4
+2005,Drama,Obaba,good,100,6.5
+2005,Comedy,"Travaux, on sait quand ça commence...",okay,95,5.2
+2005,Comedy,Zemanovaload,okay,90,6.0
+2005,Drama,A fény ösvényei,good,90,6.9
+2005,"Crime, Drama, Thriller",Derailed,good,108,6.6
+2005,Thriller,Devil's Highway,,91,3.5
+2005,"Drama, Romance, Thriller",Down in the Valley,good,108,6.4
+2005,"Action, Thriller",Throttle,okay,86,5.1
+2005,"Comedy, Crime, Sport",The Longest Yard,good,113,6.4
+2005,Drama,Special Ed,good,108,6.7
+2005,"Comedy, Drama, Romance",Rumor Has It...,okay,97,5.5
+2005,"Action, Horror, Thriller",Vampires: The Turning,,84,3.5
+2005,Drama,Nordeste,good,104,6.6
+2005,"Action, Crime, Drama",Assault on Precinct 13,good,109,6.3
+2005,"Comedy, Horror",Dead Meat,okay,87,4.1
+2005,"Comedy, Family",Down and Derby,okay,90,5.5
+2005,"Comedy, Drama",Duane Hopwood,good,84,6.6
+2005,"Crime, Drama, Thriller",A History of Violence,good,96,7.4
+2005,"Action, Sci-Fi, Thriller",The Island,good,136,6.8
+2005,"Comedy, Drama, Romance",Je préfère qu'on reste amis,okay,100,6.0
+2005,"Action, Crime, Drama",Lord of War,good,122,7.6
+2005,"Action, Comedy, Crime",The Man,okay,83,5.5
+2005,"Adventure, Biography, Dram",End of the Spear,good,108,6.8
+2005,"Drama, Thriller",Ambulancen,okay,80,5.2
+2005,"Comedy, Drama, Romance",Chanthupottu,good,127,6.6
+2005,"Drama, Horror, Mystery",Bag det stille ydre,okay,93,4.6
+2005,"Drama, Mystery, Romance",Die blaue Grenze,good,107,6.4
+2005,"Adventure, Comedy, Family",Herbie Fully Loaded,okay,101,4.8
+2005,"Comedy, Crime, Drama",The Ice Harvest,good,92,6.3
+2005,Drama,Lepel,good,96,6.3
+2005,Comedy,"Tu vas rire, mais je te quitte",okay,90,5.0
+2005,"Comedy, Drama",C.R.A.Z.Y.,good,127,7.9
+2005,"Comedy, Romance",The Baxter,good,91,6.5
+2005,Horror,The Curse of El Charro,bad,90,2.9
+2005,"Comedy, Drama",Say Uncle,okay,91,5.5
+2005,"Drama, Thriller",Fierce People,good,107,6.5
+2005,"Action, Adventure, Comedy",The Helix... Loaded,bad,97,2.1
+2005,"Animation, Adventure, Dram",Der kleine Eisbär 2: Die geheimnisvolle Insel,okay,80,5.6
+2005,"Comedy, Drama",Brooklyn Lobster,good,94,6.3
+2005,"Crime, Thriller",Sin City,good,124,8.0
+2005,"Drama, Romance",Xiang ri kui,good,129,7.2
+2005,"Drama, Fantasy, Horror",Tamara,okay,98,5.1
+2005,"Action, Adventure, Crime",Æon Flux,okay,93,5.4
+2005,Comedy,Avant qu'il ne soit trop tard,okay,84,5.4
+2005,Comedy,Bab el web,okay,99,4.6
+2005,"Action, Adventure, Drama",Beowulf & Grendel,okay,103,5.8
+2005,"Action, Drama",Chok-Dee,good,105,6.2
+2005,Comedy,Just Sex and Nothing Else,good,97,6.3
+2005,"Action, Crime, Drama",L'empire des loups,okay,128,5.9
+2005,"Comedy, Drama, Romance",The Great New Wonderful,okay,87,5.7
+2005,Comedy,Hating Alison Ashley,okay,100,5.5
+2005,"Horror, Thriller",The Dark Hours,okay,80,6.0
+2005,Comedy,Iznogoud,,95,3.7
+2005,"Biography, Drama, History",The New World,good,135,6.7
+2005,Comedy,Ivkova slava,good,110,7.2
+2005,Drama,Unge Andersen,good,110,6.4
+2005,"Comedy, Crime, Drama",The Big White,good,100,6.4
+2005,"Adventure, Comedy, Drama",Casanova,good,112,6.5
+2005,"Action, Adventure, Horror",The Cave,okay,97,5.1
+2005,"Action, Crime, Drama",Chaos,good,106,6.5
+2005,"Action, Drama, Romance",Supercross,okay,80,4.3
+2005,"Drama, Music",Last Days,okay,97,5.8
+2005,Horror,Snuff-Movie,,92,3.9
+2005,"Crime, Drama, Romance",Nordkraft,good,125,6.8
+2005,"Family, Fantasy, Sci-Fi",Oskar & Josefine,okay,80,5.2
+2005,"Comedy, Drama, Music",Roll Bounce,good,112,6.1
+2005,"Comedy, Drama, Romance",The Sisterhood of the Traveling Pants,good,119,6.5
+2005,"Comedy, Drama",Solkongen,good,86,6.1
+2005,"Musical, Action, Crime",State Property 2,okay,94,4.6
+2005,"Comedy, Drama",The Ape,okay,92,4.5
+2005,"Crime, Drama, Mystery",Chasing Ghosts,okay,119,5.4
+2005,"Comedy, Drama",Everything Is Illuminated,good,106,7.4
+2005,"Drama, Horror, Thriller",The Exorcism of Emily Rose,good,119,6.7
+2005,"Crime, Drama",Les mauvais joueurs,okay,85,5.3
+2005,"Biography, Drama",The Notorious Bettie Page,good,91,6.5
+2005,Comedy,The Moguls,good,96,6.3
+2005,"Adventure, Comedy, Family",Sky High,good,100,6.2
+2005,Comedy,Suits on the Loose,okay,94,5.4
+2005,"Comedy, Romance",The 40 Year Old Virgin,good,116,7.1
+2005,"Comedy, Drama, Romance",Barfuss,good,118,7.2
+2005,"Crime, Drama, Thriller",The Deal,okay,107,5.0
+2005,"Horror, Thriller",Chaos,,74,3.2
+2005,Drama,Loggerheads,good,95,7.1
+2005,"Comedy, Drama, Romance",Nearing Grace,okay,105,5.8
+2005,Drama,Stestí,good,102,7.1
+2005,"Biography, Drama","The Prize Winner of Defiance, Ohio",good,99,7.3
+2005,"Crime, Drama",Sametoví vrazi,okay,137,6.0
+2005,Comedy,Shut Up and Shoot Me,good,90,6.2
+2005,Comedy,Skrítek,good,90,7.1
+2005,"Action, Adventure, Comedy",Zathura: A Space Adventure,good,101,6.1
+2005,"Comedy, Romance",El amor - primera parte,good,102,7.0
+2005,"Comedy, Drama",The Chumscrubber,good,108,6.9
+2005,"Comedy, Drama",Dobro ustimani mrtvaci,good,92,7.0
+2005,"Action, Drama, Sci-Fi",Lorelei,okay,128,5.3
+2005,Drama,Our Very Own,good,106,6.1
+2005,Comedy,Szöke kóla,okay,96,4.1
+2005,"Animation, Comedy, Family",Pooh's Heffalump Movie,good,68,6.4
+2005,Drama,The Sisters,good,113,6.1
+2005,Drama,Le survenant,good,138,6.3
+2005,"Animation, Comedy, Drama",Sílení,good,118,7.3
+2005,"Adventure, Comedy, Drama",Transamerica,good,103,7.4
+2005,"Comedy, Romance",The Truth About Love,okay,100,5.4
+2005,"Action, Romance, War",The Second Front,okay,88,4.0
+2005,"Adventure, Sci-Fi",War of the Worlds,good,116,6.5
+2005,Comedy,Complete Guide to Guys,okay,83,4.2
+2005,Comedy,Dirty Deeds,okay,87,5.8
+2005,Action,Fugitive Hunter,,88,3.6
+2005,Comedy,Kamenák 3,bad,101,2.4
+2005,"Drama, Romance",The Mistress of Spices,okay,92,5.5
+2005,"Comedy, Drama",Príbehy obycejného sílenství,good,100,7.3
+2005,Romance,Kousek nebe,good,88,6.8
+2005,"Comedy, Drama",Knetter,good,83,6.6
+2005,"Biography, Crime, Drama",Munich,good,164,7.5
+2005,"Comedy, Drama, Romance",Voksne mennesker,good,109,7.2
+2005,"Comedy, Sport",Bad News Bears,okay,113,5.8
+2005,"Drama, Mystery, Thriller",Flightplan,good,98,6.3
+2005,"Comedy, War",Guy X,okay,101,5.1
+2005,Comedy,Kids in America,okay,91,5.7
+2005,Comedy,The Life and Hard Times of Guy Terrifico,good,86,6.6
+2005,"Adventure, Comedy, Romance",Love Wrecked,okay,87,4.8
+2005,Comedy,Hrubes a Mares jsou kamarádi do deste,okay,108,5.4
+2005,"Comedy, Drama, Musical",Marilyn Hotchkiss' Ballroom Dancing & Charm School,good,103,6.6
+2005,"Comedy, Drama, Romance",Les poupées russes,good,125,7.0
+2005,Drama,Shabd,okay,140,5.2
+2005,Romance,Cheong yeon,good,132,6.8
+2005,"Drama, Family",Come Away Home,good,102,6.8
+2005,Comedy,Espace détente,okay,102,4.6
+2005,Horror,Hunting Season,,79,3.5
+2005,"Crime, Drama, Music",Hustle & Flow,good,116,7.3
+2005,"Adventure, Drama",The King Maker,,92,3.5
+2005,"Comedy, Drama",Mi Mejor Enemigo,good,100,7.2
+2005,Drama,The Mighty Celt,good,82,6.9
+2005,Drama,La noche del hermano,okay,106,5.1
+2005,"Comedy, Drama, Romance",On a Clear Day,good,95,6.9
+2005,"Drama, Romance",Oublier Cheyenne,good,86,6.3
+2005,Drama,La petite Chartreuse,good,90,6.4
+2005,Drama,Resurrection: The J.R. Richard Story,good,120,7.3
+2005,"Fantasy, Sci-Fi",Sidekick,okay,87,5.4
+2005,"Crime, Drama, Romance",Slingshot,okay,90,4.6
+2005,"Action, Fantasy, Thriller",Soul Searcher,,98,3.9
+2005,"Drama, Fantasy, Horror",Tideland,good,120,6.5
+2005,Drama,All the Invisible Children,good,124,7.5
+2005,Drama,L'annulaire,good,104,6.2
+2005,"Crime, Drama, Romance",Anthony Zimmer,good,89,6.5
+2005,"Comedy, Drama",Breakfast on Pluto,good,128,7.2
+2005,"Drama, Horror, Mystery",The Dark,okay,93,5.4
+2005,"Crime, Drama, Music",De battre mon coeur s'est arrêté,good,108,7.3
+2005,Comedy,One Day in Europe,good,95,6.5
+2005,"Action, Comedy, Horror",Return of the Living Dead: Necropolis,,88,3.3
+2005,"Comedy, Horror, Sci-Fi",Return of the Living Dead: Rave to the Grave,,86,3.3
+2005,"Comedy, Drama, Mystery",Broken Flowers,good,106,7.2
+2005,"Comedy, Romance",Winners and Losers,okay,85,4.1
+2005,"Drama, Romance",WTC View,okay,104,6.0
+2005,"Biography, Drama, Sport",The World's Fastest Indian,good,127,7.8
+2005,Comedy,Tout pour plaire,okay,105,6.0
+2005,"Drama, Thriller",Being Cyrus,good,90,7.2
+2005,"Sci-Fi, Thriller",Animal,okay,103,5.0
+2005,Comedy,L'antidote,okay,107,5.2
+2005,"Action, Comedy",Brutal Incasso,,87,3.6
+2005,Comedy,Brice de Nice,okay,98,5.1
+2005,Drama,Desolation Sound,okay,101,5.3
+2005,"Comedy, Family, Romance",Little Manhattan,good,84,7.5
+2005,"Comedy, Drama, Music",Mrs Henderson Presents,good,103,7.0
+2005,"Drama, Fantasy, Mystery",Puritan,okay,94,5.9
+2005,Thriller,Jug jugoistok,okay,87,5.3
+2005,Drama,Sulanga Enu Pinisa,good,108,6.2
+2005,Drama,The Unseen,good,99,6.6
+2005,"Comedy, Drama",Wassup Rockers,okay,111,6.0
+2005,"Comedy, Drama",Les yeux clairs,good,87,6.8
+2005,"Comedy, Romance",Cake,okay,94,4.9
+2005,"Drama, Family, Fantasy",A porcelánbaba,okay,75,5.9
+2005,"Horror, Thriller",Intermedio,bad,85,2.7
+2005,Drama,Kinamand,good,88,7.0
+2005,"Crime, Drama, Thriller",Off Screen,good,94,6.7
+2005,Drama,The War Within,good,90,6.8
+2005,"Drama, Romance",Pride & Prejudice,good,129,7.8
+2005,Comedy,7 días,good,95,6.7
+2005,Drama,Amu,good,102,7.4
+2005,"Drama, Comedy",37 og et halvt,okay,101,4.7
+2005,"Mystery, Thriller",La boîte noire,okay,90,5.9
+2005,"Crime, Drama, Thriller",The Quiet,good,96,6.3
+2005,"Drama, Mystery, Thriller",Vinterkyss,good,84,6.4
+2005,"Drama, Romance",Marock,good,105,6.1
+2005,"Horror, Mystery, Thriller",Mortuary,okay,94,4.0
+2005,Drama,Red Doors,good,90,6.4
+2005,Drama,Beed-e majnoon,good,96,7.4
+2005,"Action, Drama, Sport",Boy s tenyu,okay,132,5.9
+2005,"Comedy, Fantasy, Horror",Boy Eats Girl,okay,80,5.0
+2005,Comedy,The Trouble with Dee Dee,good,81,6.5
+2005,"Action, Crime, Drama",Dus,okay,152,5.5
+2005,Comedy,Fool's Gold,good,90,6.4
+2005,"Crime, Drama, Mystery",Hate Crime,good,103,6.3
+2005,Drama,Heart of the Beholder,okay,106,5.9
+2005,"Adventure, Comedy, Crime",Hirsiz Var!,okay,96,4.3
+2005,"Drama, Romance",Greener Mountains,okay,89,5.1
+2005,"Adventure, Horror, Mystery",Kaal,okay,126,4.6
+2005,"Drama, Mystery, Thriller",Lemming,good,129,6.7
+2005,"Comedy, Drama",Me and You and Everyone We Know,good,91,7.3
+2005,"Action, Adventure, Crime",River's End,okay,90,5.3
+2005,Drama,Para que no me olvides,good,100,7.0
+2005,"Crime, Drama, Thriller",Pobeg,okay,110,5.7
+2005,Comedy,"Semen, una historia de amor",okay,89,5.5
+2005,"Horror, Thriller",Wolf Creek,good,99,6.2
+2005,"Drama, Romance, Thriller",Match Point,good,124,7.6
+2005,"Comedy, Adventure, Romance",Akoibon,okay,95,4.7
+2005,Drama,American Gun,good,95,6.1
+2005,"Comedy, Drama, Romance",Crazylove,good,95,6.1
+2005,"Action, Drama, Sport",Dishdogz,okay,90,5.3
+2005,"Action, Thriller",Elaan,okay,159,4.4
+2005,"Action, Adventure, Comedy",Glass Trap,bad,90,2.9
+2005,Comedy,The Kid & I,okay,93,5.3
+2005,Thriller,Lethal Eviction,okay,97,4.3
+2005,"Comedy, Romance",Must Love Dogs,okay,98,5.9
+2005,"Romance, Drama",Les mots bleus,good,114,6.5
+2005,"Drama, Mystery",Room,okay,75,4.5
+2005,Drama,Le temps qui reste,good,81,7.1
+2005,"Drama, Sport, Thriller",Two for the Money,good,122,6.3
+2005,Drama,12 and Holding,good,94,7.5
+2005,"Action, Drama, History",9 rota,good,139,7.1
+2005,"Drama, Fantasy, Mystery",L'avion,okay,100,5.7
+2005,Comedy,Checking Out,okay,94,5.9
+2005,"Drama, Thriller",Confession,okay,90,5.7
+2005,"Comedy, Drama, Romance",Factotum,good,94,6.6
+2005,Horror,Forest of the Damned,bad,95,2.7
+2005,"Comedy, Drama",Hank Williams First Nation,okay,92,6.0
+2005,"Horror, Mystery, Sci-Fi",Headspace,okay,89,4.6
+2005,"Comedy, Romance",Her Minor Thing,okay,91,5.2
+2005,"Action, Sci-Fi",Kampfansage - Der letzte Schüler,okay,102,5.1
+2005,"Comedy, Crime, Drama",Little Athens,okay,103,5.5
+2005,"Comedy, Drama, Romance",Ma quando arrivano le ragazze?,good,106,6.6
+2005,"Comedy, Drama, Romance",Manuale d'amore,good,116,6.4
+2005,"Action, Drama, Fantasy",Wu ji,okay,121,5.6
+2005,"Drama, Fantasy, Mystery",Neverwas,good,103,6.6
+2005,"Adventure, Drama",Quando sei nato non puoi più nasconderti,good,115,6.7
+2005,"Crime, Drama",Romanzo criminale,good,152,7.2
+2005,"Comedy, Drama",Tickets,good,109,7.0
+2005,"Comedy, Horror",TrashHouse,bad,82,2.5
+2005,"Comedy, Family, Sport",Die Wilden Kerle 2,okay,95,4.2
+2005,"Drama, Thriller",Wish You Were Here,okay,83,4.9
+2005,"Comedy, Crime, Drama",Adams æbler,good,94,7.8
+2005,"Drama, Romance",Un año sin amor,good,102,6.2
+2005,Comedy,Beverly Kills,,87,3.8
+2005,Horror,Death Tunnel,bad,97,2.7
+2005,"Drama, Family, Sport",Dreamer: Inspired by a True Story,good,106,6.8
+2005,"Action, Biography, Drama",Jarhead,good,125,7.0
+2005,"Comedy, Drama",Junebug,good,106,6.9
+2005,"Horror, Sci-Fi, Thriller",Land of the Dead,good,93,6.2
+2005,"Drama, Romance",Lie with Me,okay,93,5.3
+2005,"Drama, History, War",La maison de Nina,okay,112,6.0
+2005,Comedy,Matrimonium,okay,88,4.8
+2005,"Action, Comedy",Max und Moritz Reloaded,bad,87,2.5
+2005,Comedy,Mi nismo andjeli 2,good,89,6.1
+2005,Comedy,Partner(s),okay,91,5.7
+2005,"Horror, Thriller",Spirit Trap,okay,91,4.5
+2005,"Comedy, Drama, Romance",La tigre e la neve,good,114,7.1
+2005,"Comedy, Drama",Wah-Wah,good,120,6.8
+2005,"Adventure, Crime, Drama",The Three Burials of Melquiades Estrada,good,121,7.4
+2005,"Comedy, Romance",Abo Ali,good,120,6.4
+2005,Drama,Chromophobia,good,136,6.1
+2005,"Comedy, Horror, Thriller",Cruel World,,88,3.9
+2005,Drama,Dans tes rêves,okay,102,4.3
+2005,"Action, Adventure, Fantasy",Doom,okay,105,5.2
+2005,Drama,Eighteen,good,106,6.3
+2005,Drama,Gespenster,good,85,6.8
+2005,"Thriller, Mystery",Graves End,good,90,8.9
+2005,"Crime, Drama",Kim Novak badade aldrig i Genesarets sjö,good,95,6.5
+2005,"Drama, Romance",Living 'til the End,good,87,6.6
+2005,"Drama, Sport",My Brother... Nikhil,good,120,7.3
+2005,Drama,Nine Lives,good,115,6.7
+2005,Drama,Ronda nocturna,good,81,6.1
+2005,"Drama, Romance",Unkenrufe,okay,98,5.7
+2005,"Drama, Family",Viruddh... Family Comes First,good,132,7.1
+2005,Comedy,Idole instantanée,okay,95,5.5
+2005,"Crime, Drama, Thriller",El aura,good,134,7.2
+2005,"Comedy, Drama, Romance",Combien tu m'aimes?,okay,95,5.7
+2005,Drama,Di buen día a papá,good,107,6.3
+2005,"Drama, Thriller",A Little Trip to Heaven,okay,98,6.0
+2005,Drama,Sauf le respect que je vous dois,good,90,6.2
+2005,Drama,Schläfer,good,99,6.3
+2005,Drama,La guerra di Mario,good,100,6.6
+2005,"Drama, History, War",Shooting Dogs,good,115,7.7
+2005,"Drama, Comedy",Turning Green,okay,85,5.6
+2005,"Comedy, Crime, Thriller",Zhmurki,good,111,7.2
+2005,Horror,The Witch's Sabbath,,85,3.2
+2005,"Action, Biography, Crime",Domino,okay,127,5.9
+2005,"Drama, Romance",Kontakt,good,120,7.0
+2005,"Comedy, Romance",Zerophilia,good,90,6.1
+2005,Drama,Kombat Sechzehn,good,96,6.1
+2005,"Comedy, Drama",Mrs. Palfrey at the Claremont,good,108,7.6
+2005,"Crime, Drama, Western",The Proposition,good,104,7.4
+2005,"Action, Mystery, Thriller",Red Eye,good,85,6.4
+2005,Drama,Steal Me,okay,95,5.8
+2005,"Comedy, Musical",20 centímetros,good,112,6.6
+2005,"Drama, Thriller",Anlat Istanbul,good,99,7.4
+2005,"Comedy, Music",El calentito,okay,90,5.8
+2005,"Crime, Drama, Mystery",Carambole,okay,102,6.0
+2005,"Adventure, Action",Les chevaliers du ciel,okay,102,5.8
+2005,"Horror, Action, Sci-Fi",Choker,bad,93,2.6
+2005,"Comedy, Drama, Romance",Imagine Me & You,good,90,6.8
+2005,"Comedy, Drama",Como un avión estrellado,good,80,6.7
+2005,"Comedy, Crime, Drama",Le couperet,good,117,7.4
+2005,Horror,Curandero,okay,92,4.9
+2005,Drama,La ravisseuse,okay,90,6.0
+2005,"Comedy, Drama, Romance",Diary of a Mad Black Woman,okay,116,5.7
+2005,Drama,Douches froides,good,102,6.1
+2005,"Horror, Mystery, Thriller",Frágiles,good,101,6.1
+2005,Drama,A Simple Curve,good,92,6.6
+2005,Drama,Iki Genç Kiz,okay,107,5.4
+2005,Drama,Diep,good,90,6.3
+2005,"Crime, Drama, Mystery",Mallaki Iskandariya,good,95,7.0
+2005,"Fantasy, Horror",Ranpo jigoku,good,134,6.3
+2005,Drama,Restart,okay,85,5.9
+2005,"Comedy, Romance",Southern Belles,okay,90,5.6
+2005,"Drama, Romance, Thriller",This Revolution,okay,95,5.5
+2005,"Comedy, Drama, Music",Tjenare kungen,okay,94,6.0
+2005,Comedy,A Cock and Bull Story,good,94,6.7
+2005,"Comedy, Drama","L'un reste, l'autre part",okay,109,5.7
+2005,Drama,Waterborne,okay,80,5.5
+2005,"Action, Horror, Thriller",Way of the Vampire,bad,82,1.9
+2005,"Crime, Comedy, Romance",L'amour aux trousses,okay,93,4.8
+2005,"Romance, Drama, Comedy",Au suivant!,okay,90,4.4
+2005,Comedy,Boudu,okay,104,5.3
+2005,Comedy,Zim and Co.,good,88,6.6
+2005,"Comedy, Drama, Romance",David & Layla,okay,106,5.4
+2005,"Drama, Thriller",Hard Candy,good,104,7.1
+2005,"Drama, History, Music",Joyeux Noël,good,116,7.7
+2005,"Comedy, Romance",The Mostly Unfabulous Social Life of Ethan Green,good,88,6.2
+2005,Comedy,NVA,okay,98,5.7
+2005,Comedy,Palais royal!,okay,110,5.5
+2005,"Action, Adventure, Comedy",The Adventures of Sharkboy and Lavagirl 3-D,,93,3.5
+2005,"Drama, Romance, Sci-Fi",Allegro,good,88,6.6
+2005,"Drama, Romance",Ayin karanlik yüzü,,100,3.4
+2005,"Drama, Mystery, Thriller",Between,okay,79,4.2
+2005,"Animation, Comedy, Sci-Fi",Disaster!,okay,83,5.0
+2005,Drama,Dommeren,okay,89,5.4
+2005,Drama,Drabet,good,100,6.7
+2005,"Comedy, Drama, Sport",Game 6,okay,87,5.8
+2005,Drama,Gönül Yarasi,good,142,7.8
+2005,"Comedy, Fantasy",El hasa el sabaa,okay,110,5.9
+2005,"Comedy, Drama, Fantasy",Just Like Heaven,good,95,6.7
+2005,"Drama, Mystery",The Fine Art of Love: Mine Ha-Ha,okay,102,5.5
+2005,"Drama, Comedy, Music",Almost Heaven,okay,102,5.7
+2005,"Horror, Thriller",Long Distance,okay,90,5.2
+2005,Drama,Malek wa ketaba,okay,120,6.0
+2005,"Drama, Thriller",Mary,okay,83,5.8
+2005,Drama,Niagara Motel,okay,88,5.8
+2005,"Comedy, Romance",Nynne,okay,94,5.6
+2005,"Comedy, Drama",Pardon,good,94,8.2
+2005,"Crime, Drama, Thriller",Pusher III,good,90,7.3
+2005,"Drama, Thriller",Runaway,good,80,6.6
+2005,Comedy,Sans Kapiyi Kirinca,good,107,6.2
+2005,"Comedy, Romance",Den store dag,okay,95,5.4
+2005,Comedy,La suerte está echada,good,97,7.1
+2005,"Drama, Romance",Touched,okay,90,5.8
+2005,"Drama, Thriller","Sorry, Haters",good,83,6.2
+2005,Drama,You Are Alone,good,84,6.3
+2005,"Adventure, Family, Fantasy",Yôkai daisensô,good,124,6.4
+2005,"Action, Drama, History",American Soldiers,,103,3.3
+2005,Drama,Familia,good,102,7.1
+2005,"Mystery, Thriller",De indringer,good,109,6.8
+2005,"Action, Comedy",Kész cirkusz,okay,74,5.9
+2005,Drama,O Veneno da Madrugada,okay,118,5.8
+2005,Comedy,Un rey en La Habana,okay,102,5.5
+2005,Drama,Riviera,okay,94,4.9
+2005,"Drama, Romance",Segundo asalto,okay,104,5.9
+2005,"Drama, Adventure",Short Order,good,100,6.5
+2005,Comedy,La cloche a sonné,okay,95,4.6
+2005,"Horror, Sci-Fi, Thriller",Alien Abduction,bad,96,2.5
+2005,"Action, Comedy, Horror",Feast,good,95,6.3
+2005,"Comedy, Drama, War",Go West,good,97,6.6
+2005,"Comedy, Family, Romance",Popstar,bad,94,2.6
+2005,"Musical, Horror",Song of the Dead,okay,96,4.7
+2005,"Biography, Crime, Drama",Sophie Scholl - Die letzten Tage,good,120,7.6
+2005,"Comedy, Crime, Drama",In the Mix,bad,95,2.8
+2005,"Crime, Thriller",Venice Underground,,93,3.2
+2005,"Biography, Drama, Music",Stoned,okay,102,5.8
+2005,Fantasy,Apocalypse and the Beauty Queen,bad,95,2.7
+2005,"Comedy, Drama",Blízko nebe,okay,96,4.7
+2005,"Biography, Drama",Cavalcade,okay,90,4.6
+2005,Drama,Cayo,good,112,6.3
+2005,Drama,Egreti gelin,good,100,6.2
+2005,Comedy,Erkan & Stefan in Der Tod kommt krass,okay,97,4.3
+2005,Comedy,Hababam Sinifi Askerde,,112,3.0
+2005,Drama,El método,good,115,7.2
+2005,"Horror, Thriller",Neighborhood Watch,okay,92,5.1
+2005,Drama,Perception,okay,101,4.7
+2005,"Horror, Music, Sci-Fi",Studio 666,,76,3.0
+2005,"Comedy, Drama",Slunecní stát aneb hrdinové delnické trídy,good,95,6.7
+2005,Thriller,Stillwater,okay,90,4.2
+2005,"Comedy, Drama, Romance",Strákarnir okkar,okay,85,5.0
+2005,Drama,Trip Out,okay,93,4.8
+2005,"Drama, War",Lupaus,good,112,6.4
+2005,Comedy,Teberik Sanssiz,bad,100,1.8
+2005,"Comedy, Drama",Thank You for Smoking,good,92,7.6
+2005,"Action, Crime, Drama",Tom yum goong,good,111,7.1
+2005,"Comedy, Drama",Tommys Inferno,okay,95,5.4
+2005,"Comedy, Drama, Romance",Trust the Man,okay,103,5.7
+2005,"Drama, Romance",Sweet Land,good,110,7.1
+2005,"Drama, Horror, Mystery",Haunted Boat,bad,97,2.2
+2005,"Horror, Thriller",All Souls Day: Dia de los Muertos,,88,3.7
+2005,Horror,Venom,okay,87,4.6
+2005,Drama,Big River,good,104,6.2
+2005,Drama,Un Buda,good,115,6.7
+2005,Comedy,Camping à la ferme,okay,92,5.4
+2005,Thriller,Cavite,good,80,6.2
+2005,"Horror, Sci-Fi, Thriller",Severed,okay,93,4.6
+2005,"Comedy, Musical, Romance",Crustacés & coquillages,good,96,6.6
+2005,Comedy,Le démon de midi,okay,90,4.6
+2005,Comedy,Les enfants,okay,88,5.8
+2005,Drama,La fiesta del Chivo,good,132,6.4
+2005,Thriller,Fluerne på væggen,okay,92,5.5
+2005,Drama,Guernsey,good,90,6.1
+2005,"Biography, Comedy, Romance",I Am a Sex Addict,okay,98,6.0
+2005,Comedy,Il était une fois dans l'oued,okay,93,4.8
+2005,Drama,Fremde Haut,good,97,7.0
+2005,Drama,Miss Montigny,good,100,6.3
+2005,"Drama, Mystery",La moustache,good,87,6.7
+2005,"Comedy, Drama",Papa,good,80,6.5
+2005,"Comedy, Crime",Les parrains,okay,99,5.7
+2005,Drama,La petite Jérusalem,good,96,6.6
+2005,"Drama, Thriller",Edy,okay,101,5.6
+2005,"Comedy, Drama",Saint-Jacques... La Mecque,good,110,6.4
+2005,"Action, Adventure, Fantasy",Qi jian,good,153,6.2
+2005,Comedy,Siegfried,,89,3.6
+2005,Drama,Tara Road,okay,97,6.0
+2005,"Crime, Drama, Romance",The Tenants,okay,93,5.2
+2005,"Comedy, Drama",The Thing About My Folks,good,96,6.5
+2005,"Comedy, Romance",Un fil à la patte,okay,79,5.3
+2005,Comedy,La vie est à nous!,okay,100,4.7
+2005,"Comedy, Drama, Sport",Virgil,good,93,6.5
+2005,"Comedy, Drama",Voici venu le temps,okay,92,5.3
+2005,Drama,50 Ways of Saying Fabulous,okay,90,5.6
+2005,"Drama, History, Horror",An American Haunting,okay,83,5.1
+2005,"Crime, Drama, Thriller",The Business,good,97,6.7
+2005,"Comedy, Romance",O Casamento de Romeu e Julieta,good,90,6.2
+2005,"Comedy, Musical",The Clan,,95,3.6
+2005,Drama,Cuore sacro,good,120,6.4
+2005,"Comedy, Drama, Romance",Der Fischer und seine Frau,good,100,6.2
+2005,"Action, Crime, Drama",Four Brothers,good,109,6.8
+2005,Drama,L'enfer,good,102,6.8
+2005,Horror,It Waits,okay,88,4.0
+2005,"Drama, Romance",Johan,okay,90,6.0
+2005,"Adventure, Crime, Drama",Joyride,okay,87,4.9
+2005,"Action, Drama, War",Pervyy posle Boga,okay,99,5.5
+2005,"Biography, Crime, Drama",Get Rich or Die Tryin',okay,117,5.3
+2005,Comedy,El penalti más largo del mundo,okay,100,5.3
+2005,Drama,Provincia meccanica,okay,107,5.4
+2005,"Drama, Romance",The Secret Life of Words,good,115,7.5
+2005,Comedy,Udayananu Tharam,good,162,7.9
+2005,Drama,Aurore,good,115,7.4
+2005,Drama,Berkeley,okay,88,5.0
+2005,"Comedy, Romance",The Best Man,okay,96,6.0
+2005,Drama,Eve and the Fire Horse,good,92,6.9
+2005,"Comedy, Drama",Im Schwitzkasten,okay,95,5.9
+2005,"Romance, Drama",Jogo Subterrâneo,good,109,6.8
+2005,"Biography, Drama, History",Joseph Smith: Prophet of the Restoration,good,60,7.8
+2005,"Adventure, Comedy, Drama",Lassie,good,100,6.7
+2005,"Family, Adventure",Der Schatz der weißen Falken,good,92,6.9
+2005,"Crime, Mystery, Thriller",Steget efter,good,101,6.1
+2005,"Action, Adventure, Comedy",Stinger,bad,97,1.9
+2005,Comedy,L'uomo perfetto,good,95,6.1
+2005,Drama,Les âmes grises,good,106,6.3
+2005,Drama,Árido Movie,good,100,6.8
+2005,Action,Azumi 2: Death or Love,good,108,6.3
+2005,Comedy,Foon,,82,3.8
+2005,"Action, Comedy, Drama",Andarivaadu,okay,162,4.3
+2005,Comedy,Il ne faut jurer... de rien!,okay,101,5.6
+2005,Drama,Mistrz,good,117,6.4
+2005,Drama,Oculto,good,125,6.1
+2005,Drama,Peindre ou faire l'amour,good,100,6.1
+2005,"Crime, Drama",Le petit lieutenant,good,110,7.0
+2005,"Comedy, Drama, Horror",Puppy,good,95,6.3
+2005,Comedy,Román pro zeny,okay,100,5.8
+2005,"Comedy, Drama, Family",Sandor slash Ida,okay,93,5.1
+2005,"Action, Crime, Drama",Sarkar,good,124,7.6
+2005,"Action, Drama",Bunny,okay,139,5.7
+2005,"Drama, Music",Brothers of the Head,good,93,6.4
+2005,"Action, Crime, Drama",The Cutter,okay,92,4.9
+2005,Horror,The Fog,,100,3.7
+2005,"Drama, Family",Die Höhle des gelben Hundes,good,93,7.6
+2005,"Horror, Mystery",Saw II,good,93,6.6
+2005,"Comedy, Romance, Drama",Rag Tale,,123,3.9
+2005,"Drama, Thriller",Mørke,good,124,6.8
+2005,Drama,Otros días vendrán,good,104,6.4
+2005,Comedy,Papá se volvió loco,,90,3.5
+2005,"Drama, Thriller","Quo Vadis, Baby?",good,102,6.2
+2005,Comedy,Looking for Comedy in the Muslim World,okay,98,5.4
+2005,"Action, Drama",Gonggongui jeog 2,okay,148,6.0
+2005,Horror,Dark Remains,okay,91,4.9
+2005,"Biography, Drama, History","Good Night, and Good Luck.",good,93,7.4
+2005,"Action, Crime, Drama",Harsh Times,good,116,6.9
+2005,"Comedy, Romance",Just Friends,good,96,6.2
+2005,"Drama, History",Parzania,good,116,7.7
+2005,Horror,Wild Country,okay,67,4.3
+2005,"Drama, Romance",Paper Moon Affair,okay,82,5.5
+2005,Thriller,Ausentes,okay,91,4.9
+2005,Drama,A golpes,okay,113,4.5
+2005,"Crime, Drama, Thriller",Hak se wui,good,101,7.1
+2005,Drama,Hormigas en la boca,okay,92,5.9
+2005,"Comedy, Drama, Music",Kinky Boots,good,107,7.1
+2005,"Comedy, Drama, Mystery",Lucid,good,92,6.5
+2005,"Comedy, Drama, Romance",La maldición del padre Cardona,,106,3.7
+2005,"Romance, Drama",O dve slabiky pozadu,good,90,7.1
+2005,Drama,Princesas,good,113,7.0
+2005,"Comedy, Romance",Reinas,good,107,6.5
+2005,Drama,Snow White,okay,111,5.8
+2005,"Comedy, Drama",Tapas,good,94,6.7
+2005,"Action, Drama, Sci-Fi",V for Vendetta,good,132,8.2
+2005,"Comedy, Music, Romance",Undiscovered,okay,97,4.3
+2005,Comedy,Gentille,okay,102,6.0
+2005,"Action, Comedy",Jing mo gaa ting,good,102,6.1
+2005,Drama,La neuvaine,good,97,7.5
+2005,Drama,Se Arrienda,good,109,6.7
+2005,"Drama, Romance",Gabrielle,good,90,6.2
+2005,"Drama, Romance",3° kälter,okay,104,5.7
+2005,"Adventure, Family, History",The Adventures of Greyfriars Bobby,good,104,6.1
+2005,"Comedy, Drama, Romance",Conversations with Other Women,good,84,7.0
+2005,"Adventure, Horror, Thrille",The Descent,good,99,7.2
+2005,Horror,Demon Hunter,okay,78,4.3
+2005,"Drama, Romance",English as a Second Language,good,105,7.0
+2005,Horror,KatieBird *Certifiable Crazy Person,okay,100,4.4
+2005,"Comedy, Fantasy, Horror",The League of Gentlemen's Apocalypse,good,91,6.1
+2005,"Action, Drama, Thriller",The Mechanik,okay,94,5.6
+2005,"Action, Drama",The Rain Makers,,93,3.8
+2005,"Drama, Music",Backstage,okay,115,5.9
+2005,Comedy,Carpool Guy,okay,119,5.1
+2005,"Comedy, Drama",Cicatrices,okay,105,4.1
+2005,"Comedy, Drama",Dura,good,95,6.6
+2005,"Comedy, Drama",Ellie Parker,okay,95,5.7
+2005,Drama,Gas,good,112,6.2
+2005,Horror,Ghost of Mae Nak,okay,101,5.1
+2005,"Adventure, Family, Fantasy",De griezelbus,okay,96,5.4
+2005,Drama,Heroína,okay,100,5.7
+2005,Comedy,High School Record,good,89,6.1
+2005,"Drama, Romance",Je ne suis pas là pour être aimé,good,93,7.2
+2005,"Action, Comedy",Jo Bole So Nihaal,,125,3.5
+2005,"Comedy, Romance","Love, Ludlow",good,86,6.5
+2005,"Comedy, Romance",Ma vie en l'air,good,103,6.8
+2005,"Comedy, Drama",The Motel,good,75,6.7
+2005,"Drama, Romance",Noksaek uija,good,98,6.2
+2005,"Comedy, Drama, Romance",The Puffy Chair,good,85,6.5
+2005,Animation,Le roman de Renart,okay,90,5.0
+2005,"Comedy, Drama",The Salon,okay,90,4.1
+2005,Comedy,La vie de Michel Muller est plus belle que la vôtre,okay,90,4.6
+2005,"Drama, Romance",Die weiße Massai,good,131,6.5
+2005,"Adventure, Drama","Zaïna, cavalière de l'Atlas",okay,100,5.6
+2005,"Comedy, Adventure, Drama",Zoop in Afrika,okay,85,5.0
+2005,"Action, Crime",Balu,okay,169,6.0
+2005,"Thriller, Horror",Headhunter,okay,90,4.6
+2005,Comedy,Horloge biologique,good,100,7.1
+2005,"Drama, History, Musical",Kaksipäisen kotkan varjossa,,113,3.1
+2005,"Mystery, Thriller",Khamoshh... Khauff Ki Raat,,123,3.3
+2005,"Drama, Musical, Romance",Parineeta,good,130,7.2
+2005,Drama,Qian li zou dan qi,good,107,7.3
+2005,"Drama, Horror",The Path of Evil,,113,3.6
+2005,"Comedy, Drama, Romance",Side Effects,okay,90,4.9
+2005,Comedy,...e se domani,okay,90,6.0
+2005,Drama,Ultranova,good,84,6.4
+2005,"Drama, War",La trahison,good,80,6.6
+2005,"Action, Crime, Drama",Insan,okay,141,4.6
+2005,Drama,Kalpurush,good,120,6.9
+2005,Drama,Silsiilay,okay,134,4.1
+2005,"Comedy, Drama",These Girls,okay,92,5.5
+2005,"Comedy, Drama, Fantasy",Four Eyed Monsters,good,85,6.2
+2005,"Drama, Family",Heidi,good,104,6.5
+2005,Drama,Kita no zeronen,good,170,6.5
+2005,"Drama, Romance",Private Moments,,85,3.6
+2005,Western,Three Bad Men,bad,90,2.8
+2005,"Comedy, Drama",All That I Need,okay,80,5.8
+2005,"Comedy, Romance",The Boynton Beach Bereavement Club,good,105,6.4
+2005,Western,Brothers in Arms,bad,85,2.3
+2005,Comedy,Straight Outta Benoni,okay,86,5.0
+2005,"Crime, Drama, Thriller",Dirty,okay,97,5.6
+2005,"Biography, Drama",2 Filhos de Francisco: A História de Zezé di Camarg,good,132,6.8
+2005,"Crime, Drama, Romance",Hokm,okay,104,5.0
+2005,"Action, Comedy, Drama",Tau man ji D,good,107,6.4
+2005,Drama,Jewboy,good,52,6.4
+2005,"Thriller, Horror, Mystery",Kraftverk 3714,,136,3.3
+2005,Drama,Leydi Zi,good,96,6.2
+2005,Comedy,Mobsters and Mormons,good,90,6.3
+2005,"Action, Comedy, Sci-Fi",Monarch of the Moon,okay,98,5.7
+2005,"Action, Comedy",Mumbai Express,okay,152,5.8
+2005,"Comedy, Drama, Musical",Pyaar Mein Twist,okay,123,5.9
+2005,Drama,Pissed,okay,90,4.6
+2005,"Drama, History",Solntse,good,110,7.3
+2005,"Comedy, Drama, Romance",These Foolish Things,okay,107,5.6
+2005,"Crime, Thriller",Den utvalde,okay,100,5.0
+2005,"Drama, Romance",Before It Had a Name,,90,3.2
+2005,Drama,Yek boos-e koochooloo,good,100,6.6
+2005,Drama,The Headsman,good,115,6.1
+2005,"Drama, Action",Made in YU,good,105,6.4
+2005,"Drama, Sci-Fi",Pryamokhozhdenie,good,94,6.2
+2005,"Drama, History",Otkradnati ochi,good,110,7.0
+2005,Drama,Balans ve manevra,,94,3.8
+2005,"Drama, Music",Habana Blues,good,115,7.1
+2005,"Comedy, Crime",O simdi mahkum,okay,125,5.7
+2005,"Drama, Comedy",Sun gaing hup nui,good,93,6.9
+2005,"Crime, Drama, Thriller",Game Over,,85,3.6
+2005,"Adventure, Comedy, Romance",Janji Joni,good,83,7.6
+2005,Drama,Onnen varjot,okay,99,5.7
+2005,"Comedy, Fantasy, Musical",Operetta tanuki goten,good,111,6.5
+2005,Drama,Suspect,okay,95,5.7
+2005,Comedy,Bam Bam and Celeste,okay,85,5.2
+2005,"Drama, Horror, Mystery",The Cabinet of Dr. Caligari,okay,76,5.8
+2005,"Comedy, Drama",Free Zone,okay,90,5.7
+2005,Crime,Sharkskin 6,okay,100,4.0
+2005,"Action, Comedy, Drama",Thommanum Makkalum,good,118,6.5
+2005,Comedy,Morir en San Hilario,good,95,6.3
+2005,Comedy,Ninette,okay,118,5.5
+2005,Drama,Le passager,good,85,6.2
+2005,"Biography, Drama, History",Cafundó,good,102,6.5
+2005,"Drama, Romance",Dil Jo Bhi Kahey...,okay,144,4.8
+2005,"Crime, Drama, Mystery",Vaada,okay,122,5.6
+2005,"Comedy, Romance",Am Tag als Bobby Ewing starb,okay,92,5.9
+2005,"Drama, Sport",Eine andere Liga,good,100,6.7
+2005,"Biography, Drama",Eläville ja kuolleille,good,95,6.7
+2005,"Documentary, Musical",Iberia,good,99,7.0
+2005,Drama,Entre ses mains,good,90,6.3
+2005,Drama,Katze im Sack,okay,87,6.0
+2005,Drama,Das Lächeln der Tiefseefische,good,86,6.3
+2005,"Animation, Drama, Romance",El sueño de una noche de San Juan,okay,85,4.8
+2005,Drama,Netto,good,87,6.8
+2005,Comedy,Olé!,okay,98,4.3
+2005,"Horror, Thriller",Rinjin 13-gô,good,115,6.5
+2005,"Mystery, Romance, Thriller",Rog,okay,115,5.1
+2005,Horror,Rofuto,okay,115,5.5
+2005,"Animation, Drama, Fantasy",Shisha no sho,good,70,6.6
+2005,"Comedy, Drama",Wahrheit oder Pflicht,good,89,6.6
+2005,"Comedy, Family, Fantasy","Yours, Mine & Ours",okay,88,5.5
+2005,Romance,Ah Aah: Anbe Aaruyire,okay,165,5.3
+2005,"Comedy, Drama",Verlengd weekend,good,93,6.5
+2005,"Drama, Mystery",La bestia nel cuore,good,120,6.4
+2005,"Family, Comedy",EZ Money,bad,86,2.9
+2005,"Drama, Thriller",Edmond,good,82,6.2
+2005,Comedy,Film Geek,good,78,6.1
+2005,"Romance, Thriller",Flirting with Anthony,bad,88,2.3
+2005,"Drama, Family",Gypo,good,98,6.8
+2005,Drama,Hard Pill,good,94,6.4
+2005,"Animation, Comedy, Crime",Hoodwinked!,good,80,6.4
+2005,Drama,Laura Smiles,okay,98,5.8
+2005,"Action, Drama, Fantasy",Left Behind III: World at War,okay,95,4.6
+2005,Drama,Melissa P.,okay,100,4.8
+2005,"Drama, Horror, Mystery",Naina,okay,104,4.3
+2005,Drama,"Paradise, Texas",okay,90,5.7
+2005,"Crime, Drama, Thriller",Red Mercury,okay,109,5.1
+2005,Sci-Fi,The Wild Blue Yonder,good,80,6.2
+2005,Drama,Page 3,good,139,7.3
+2005,"Action, Adventure, Fantasy",Desu toransu,okay,89,5.8
+2005,Comedy,Meat Pie,bad,86,2.1
+2005,Animation,Piratas en el Callao,okay,78,4.1
+2005,"Drama, Romance",Les amants réguliers,good,183,6.9
+2005,Drama,J'ai vu tuer Ben Barka,okay,101,5.8
+2005,"Comedy, Crime",Torrente 3: El protector,okay,91,5.6
+2005,"Drama, Thriller",Falscher Bekenner,good,94,6.3
+2005,"Comedy, Crime",Keeping Mum,good,99,6.8
+2005,"Action, Drama, Family",Miracle at Sage Creek,okay,90,5.5
+2005,"Comedy, Family, Music",The Naked Brothers Band: The Movie,,90,3.8
+2005,"Drama, Romance",A Sublime Love Story: Barsaat,okay,143,4.0
+2005,"Action, Drama, Thriller",Blackmail,okay,126,4.1
+2005,"Action, Comedy, Drama",Deewane Huye Paagal,okay,158,5.3
+2005,"Drama, Thriller",Fareb,okay,129,4.3
+2005,"Action, Thriller",Karam,okay,117,5.5
+2005,"Drama, Family, Musical",Main Aisa Hi Hoon,okay,162,4.7
+2005,"Action, Adventure, Drama",Tango Charlie,okay,142,6.0
+2005,"Crime, Drama, Mystery",Jurm,okay,150,5.5
+2005,"Comedy, Drama, History",Geuddae geusaramdeul,good,102,6.9
+2005,Drama,Les invisibles,okay,85,5.1
+2005,Drama,Kong que,good,136,7.6
+2005,"Comedy, Drama, Romance",Krama mig,okay,86,5.2
+2005,"Action, Comedy",Malev,good,109,7.2
+2005,"Comedy, Mystery",Mon petit doigt m'a dit...,okay,105,5.8
+2005,"Crime, Drama, Thriller",Paradise Now,good,91,7.4
+2005,"Comedy, Family, Fantasy",Röövlirahnu Martin,good,75,6.4
+2005,Drama,Sangre,okay,90,5.9
+2005,"Horror, Sci-Fi, Thriller",Somne,okay,90,4.5
+2005,"Comedy, Drama",Stiilipidu,good,110,6.1
+2005,"Comedy, Drama, Musical",Tian bian yi duo yun,good,114,6.5
+2005,"Musical, Drama, Romance",U-Carmen eKhayelitsha,good,122,6.6
+2005,Drama,Automatic,okay,77,5.6
+2005,"Crime, Horror, Thriller",Feed,okay,101,5.3
+2005,"Drama, Comedy",Home,okay,91,5.1
+2005,"Comedy, Romance",Sunnyvale,okay,75,4.7
+2005,Comedy,America 101,okay,86,5.4
+2005,"Comedy, Family",Far til fire gi'r aldrig op,okay,90,4.4
+2005,"Comedy, Drama, Family",Achuvinte Amma,good,130,6.9
+2005,"Horror, Comedy",Death by Engagement,okay,99,4.0
+2005,"Comedy, Musical, Romance",Los 2 lados de la cama,okay,104,5.5
+2005,"Action, Crime, Drama",Mang lung,okay,110,5.4
+2005,"Drama, Romance",Kamataki,good,110,7.1
+2005,"Comedy, Romance",Het schnitzelparadijs,okay,82,6.0
+2005,"Drama, Fantasy, Mystery",Storm,okay,110,5.7
+2005,"Action, Comedy, Romance",Harb Atalia,good,110,6.1
+2005,Drama,Texas,okay,103,5.9
+2005,"Biography, Drama, History",Che Guevara,okay,102,5.6
+2005,"Horror, Thriller",Cup of My Blood,okay,107,4.5
+2005,"Mystery, Thriller",Domino One,okay,86,6.0
+2005,Fantasy,Drawing Restraint 9,good,135,6.5
+2005,"Animation, Action, Drama",Gisaku,okay,81,5.7
+2005,"Horror, Sci-Fi, Thriller",Isolation,okay,95,5.6
+2005,"Drama, Romance",Kissing on the Mouth,okay,78,4.6
+2005,Comedy,Mutual Appreciation,good,109,6.7
+2005,"Action, Crime, Thriller",Rh+,bad,90,2.7
+2005,Romance,Elephant Shoes,good,80,6.6
+2005,Action,Fink!,,102,3.6
+2005,Drama,En folkefiende,okay,90,5.2
+2005,"Comedy, Drama",Import-eksport,okay,90,5.5
+2005,"Drama, Family",Het paard van Sinterklaas,good,95,7.0
+2005,Drama,The F Word,good,85,6.5
+2005,"Drama, Music, Romance",Keine Lieder über Liebe,good,98,6.5
+2005,"Fantasy, Horror, Mystery","Let Us Go and Burn Her Body; Or, The Devil Done Let",bad,112,1.7
+2005,"Drama, Romance",Sins,okay,138,4.3
+2005,Drama,Stadt als Beute,okay,93,4.9
+2005,"Crime, Drama",Alla luce del sole,good,89,7.1
+2005,"Comedy, Drama, Romance",Bunty Aur Babli,good,170,6.2
+2005,"Action, Comedy, Crime",Kochi Rajavu,okay,105,5.9
+2005,"Drama, Family, War",Zozo,good,105,6.6
+2005,Drama,Een ander zijn geluk,good,98,6.1
+2005,"Biography, Drama, Musical",Camarón,good,119,6.1
+2005,"Biography, Drama, Sport",Maraton,good,117,7.7
+2005,"Drama, Romance",Oechul,good,105,6.7
+2005,"Comedy, Drama",Pasongsong gyerantak,okay,120,5.8
+2005,Horror,Redeu-ai,okay,96,4.8
+2005,"Crime, Mystery, Thriller",Finger Print,okay,111,4.7
+2005,Thriller,Ordinary Man,good,103,6.4
+2005,"Comedy, Romance",American Fusion,okay,94,5.7
+2005,"Comedy, Drama, Romance",Chicken Tikka Masala,okay,90,5.6
+2005,"Comedy, Family, Fantasy",Es ist ein Elch entsprungen,okay,90,4.8
+2005,"Drama, Romance",London,good,92,6.5
+2005,"Action, Thriller",Lost in Plainview,okay,93,4.2
+2005,"Drama, Horror, Thriller",Dominion: Prequel to the Exorcist,okay,117,5.2
+2005,Drama,15 Park Avenue,good,116,7.1
+2005,"Drama, Romance",Dosti: Friends Forever,okay,136,5.5
+2005,"Musical, Drama, Romance",Lucky: No Time for Love,okay,180,4.7
+2005,Comedy,Shaadi No. 1,,129,3.5
+2005,"Drama, Romance",Zameer,bad,137,2.9
+2005,"Action, Drama, Thriller",Purple Heart,okay,90,5.2
+2005,Drama,"Dishab babato didam, Aida",okay,85,5.7
+2005,Drama,Bang Bang Orangutang,okay,106,4.9
+2005,"Drama, Horror",P,okay,110,5.1
+2005,Drama,Ryna,good,94,7.0
+2005,"Drama, Romance",Ayya,okay,159,5.7
+2005,"Action, Comedy, Fantasy",Chandramukhi,good,166,7.0
+2005,Thriller,Chehraa,,136,3.8
+2005,"Action, Drama, Mystery",Ghajini,good,175,7.5
+2005,Comedy,Ot 180 i vyshe,okay,104,5.5
+2005,"Drama, Romance",Qing ren jie,good,113,6.8
+2005,"Crime, Drama, Romance",Salad-e fasl,okay,90,5.2
+2005,"Drama, Crime",Statskiy sovetnik,good,191,7.1
+2005,Drama,24/7: The Passion of Life,okay,116,4.3
+2005,"Comedy, Fantasy",GamerZ,okay,101,5.9
+2005,Horror,Hostel,okay,94,5.9
+2005,"Drama, Thriller",Love,good,90,6.5
+2005,"Drama, Sci-Fi",Puzzlehead,okay,81,5.6
+2005,"Drama, War",Gilane,good,80,6.8
+2005,Drama,Italyanets,good,90,7.5
+2005,Drama,Odete,okay,101,5.8
+2005,"Comedy, Romance",Je vous trouve très beau,good,97,6.7
+2005,"Comedy, Drama",15 días contigo,good,94,6.9
+2005,"Musical, Drama",Boss'n Up,okay,88,4.7
+2005,"Horror, Mystery",Chakushin ari 2,okay,105,5.4
+2005,Drama,The Derby Stallion,okay,99,5.6
+2005,Horror,Frankenstein vs. the Creature from Blood Cove,,90,3.9
+2005,"Drama, Music",The Gospel,okay,105,4.9
+2005,Comedy,A Halfway House Christmas,okay,50,4.1
+2005,"Horror, Thriller",Insecticidal,,81,3.2
+2005,"Crime, Drama, Thriller",Chinjeolhan geumjassi,good,115,7.6
+2005,"Action, Fantasy, Horror",The Land of College Prophets,,83,3.3
+2005,Drama,Mezon do Himiko,good,130,7.0
+2005,Adventure,Moussaka & Chips,good,90,7.2
+2005,Horror,Aunt Rose,,90,3.8
+2005,"Comedy, Drama, Family",Pistvakt,okay,91,5.3
+2005,"Horror, Mystery, Thriller",The Toybox,,81,3.8
+2005,"Drama, Thriller",Tryst,okay,83,4.0
+2005,"Drama, Horror, Mystery",Within,bad,95,2.8
+2005,"Action, Crime, Drama",Apaharan,good,173,7.4
+2005,Comedy,Bachke Rehna Re Baba,bad,130,2.7
+2005,Drama,Camping sauvage,okay,79,5.4
+2005,Drama,Hana to hebi 2: Pari/Shizuko,okay,118,5.7
+2005,"Animation, Family, Fantasy",Imaginum,okay,82,4.6
+2005,"Drama, Romance",Kyon Ki...,okay,160,5.5
+2005,"Comedy, Drama, Romance",Maine Pyaar Kyun Kiya,okay,145,5.5
+2005,"Drama, Mystery, Thriller",My Wife's Murder,good,103,6.2
+2005,Comedy,Naisu no mori: The First Contact,good,150,6.8
+2005,"Comedy, Drama, Musical",No Entry,good,158,6.6
+2005,"Drama, History, War",Otoko-tachi no Yamato,good,145,6.5
+2005,"Drama, Fantasy, Romance",Paheli,good,140,6.5
+2005,"Romance, Comedy",Socha Na Tha,good,137,7.5
+2005,"Action, Comedy, Horror",Tôkyô zonbi,okay,103,6.0
+2005,"Drama, Music",El violín,good,98,7.7
+2005,"Crime, Drama, Mystery",Zeher,okay,132,5.4
+2005,"Comedy, Horror",Actress Apocalypse,okay,95,5.6
+2005,Drama,Kocken,okay,116,5.7
+2005,"Comedy, Drama",Die Viertelliterklasse,good,91,6.8
+2005,"Comedy, Drama",Balkanska braca,okay,87,5.6
+2005,"Crime, Drama",Ah sou,okay,90,4.6
+2005,"Adventure, Comedy, Family",Cheaper by the Dozen 2,okay,94,5.5
+2005,Horror,Jolly Roger: Massacre at Cutter's Cove,,80,3.2
+2005,"Comedy, Drama",One Last Thing...,good,93,6.6
+2005,"Action, Adventure, Horror",Pterodactyl,,89,3.1
+2005,"Drama, Romance",Race You to the Bottom,okay,73,5.0
+2005,Comedy,Never Been Thawed,okay,87,6.0
+2005,"Comedy, Horror",Um Lobisomem na Amazônia,okay,76,4.2
+2005,Comedy,La febbre,good,108,6.4
+2005,"Family, Drama",Venner for livet,okay,89,5.8
+2005,"Comedy, Drama, Romance",AV,good,103,6.8
+2005,Romance,Athu Oru Kanaa Kaalam,okay,134,4.6
+2005,"Comedy, Romance",B-hyeong namja chingu,okay,96,5.7
+2005,"Comedy, Romance",Can This Be Love,okay,106,5.6
+2005,"Drama, Romance",Dubai,okay,110,6.0
+2005,"Comedy, Drama, Romance",Elsa y Fred,good,108,7.6
+2005,Romance,Hau bei tim sum,good,93,6.5
+2005,Comedy,"Jeni, Juno",good,108,6.4
+2005,"Comedy, Drama, Romance",Kidari ajeossi,good,99,6.4
+2005,Comedy,Mongjunggi 2,okay,101,4.7
+2005,"Drama, Family, Romance",Priyasakhi,okay,157,4.6
+2005,"Action, Drama, Mystery",Raam,good,154,7.8
+2005,"Comedy, Drama, Romance",Sachein,good,145,6.9
+2005,"Comedy, Romance, Sport",FC Venus,okay,107,5.6
+2005,"Biography, Drama, War",Dievu miskas,good,120,7.8
+2005,"Horror, Mystery, Thriller",Naboer,good,75,6.5
+2005,"Action, Sci-Fi",Sengoku jieitai 1549,okay,119,5.1
+2005,"Biography, Drama, Family",Valo,okay,84,5.4
+2005,"Drama, Thriller, Crime",Among Brothers,okay,85,5.6
+2005,"Action, Crime, Thriller",Home Invasion,,81,3.2
+2005,"Horror, Thriller",Night Fangs,,98,3.6
+2005,Drama,Night People,okay,90,5.4
+2005,Horror,Scar,,92,3.3
+2005,"Comedy, Drama",7 1/2 Phere: More Than a Wedding,okay,136,5.4
+2005,"Comedy, Romance",Garam Masala,good,146,6.7
+2005,"Drama, Sport",Iqbal,good,132,8.1
+2005,"Comedy, Romance",Kuchh Meetha Ho Jaye,,125,3.4
+2005,"Drama, Thriller",Yakeen,okay,116,5.1
+2005,Drama,Fîmeiru,okay,118,5.8
+2005,"Biography, Comedy, Drama",Maha'lai muang rae,good,111,8.1
+2005,Comedy,Sakigake!! Kuromati Kôkô: The Movie,good,85,6.1
+2005,Drama,Antarmahal: Views of the Inner Chamber,good,118,7.1
+2005,"Crime, Drama, Mystery",Chocolate: Deep Dark Secrets,okay,160,4.8
+2005,"Crime, Drama, Thriller",'D',good,107,6.8
+2005,Drama,Maine Gandhi Ko Nahin Mara,good,100,7.4
+2005,Drama,Banyu Biru,good,78,6.3
+2005,"Horror, Thriller",Bloodshed,,82,3.2
+2005,"Crime, Drama, Mystery",Bubble,good,73,6.6
+2005,Comedy,Come as You Are,bad,84,2.7
+2005,Drama,Liebes Spiel,good,86,6.1
+2005,"Animation, Drama",Lost and Found,good,99,6.2
+2005,"Adventure, Comedy, Romance",Night of the Dog,good,86,6.9
+2005,"Drama, Musical, Romance",Ru guo · Ai,good,108,6.8
+2005,"Comedy, Crime, Romance",Polly Blue Eyes,okay,101,5.9
+2005,Comedy,Aislados,good,80,6.5
+2005,Comedy,L'anniversaire,okay,100,5.1
+2005,"Crime, Horror, Thriller",H6: Diario de un asesino,okay,92,4.5
+2005,"Drama, Comedy, Action",Han cheng gong lüe,okay,95,5.6
+2005,"Comedy, Horror",Gin gwai 10,okay,86,4.7
+2005,"Animation, Adventure, Fami",Kirikou et les bêtes sauvages,good,75,6.6
+2005,"Action, Crime",Saam cha hau,okay,101,5.9
+2005,Comedy,29th and Gay,okay,84,5.0
+2005,"Action, Thriller",Aaru,okay,168,5.6
+2005,"Horror, Thriller",The Final Patient,okay,100,4.2
+2005,Comedy,In za pûru,good,101,6.8
+2005,Comedy,Kame wa igai to hayaku oyogu,good,90,6.6
+2005,"Romance, Thriller",Kanaa Kanden,good,146,6.7
+2005,Romance,Nuvvostanante Nenoddantana,good,165,7.7
+2005,"Drama, Romance",Semishigure,good,131,7.1
+2005,"Action, Drama",Sivakasi,okay,175,5.2
+2005,"Comedy, Music",The American Ruling Class,good,88,6.9
+2005,"Comedy, Romance",Conventioneers,okay,95,5.9
+2005,"Horror, Thriller",Nightmare,okay,111,5.1
+2005,Horror,Raving Maniacs,,80,3.8
+2005,Mystery,The Sobbing Stone,bad,76,1.4
+2005,Comedy,O Coronel e o Lobisomem,okay,106,5.9
+2005,"Comedy, Romance",Densha otoko,good,105,6.6
+2005,"Comedy, Drama",Moartea domnului Lãzãrescu,good,153,7.9
+2005,"Comedy, Drama, Romance",Salaam Namaste,good,158,6.2
+2005,"Crime, Drama, Romance",L'enfant,good,95,7.5
+2005,"Drama, Romance",Hwal,good,90,7.2
+2005,"Comedy, Mystery",Kyaa Kool Hai Hum,good,172,6.1
+2005,Drama,Malas temporadas,good,115,6.3
+2005,"Comedy, Fantasy",Mr Ya Miss,,136,3.6
+2005,Thriller,Nazar,okay,138,4.1
+2005,"Horror, Mystery",Rinne,good,96,6.2
+2005,Drama,Qing hong,good,123,7.0
+2005,"Comedy, Drama",Yume no naka e,good,103,6.4
+2005,Romance,About Love,good,102,6.4
+2005,Drama,Bashing,good,82,6.9
+2005,Drama,Kamyu nante shiranai,good,115,6.9
+2005,Drama,Cidade Baixa,good,98,6.6
+2005,"Action, Drama",Dalkomhan insaeng,good,120,7.6
+2005,Comedy,Fin de curso,okay,90,4.1
+2005,Drama,Harrys döttrar,okay,106,5.9
+2005,"Action, Comedy, Crime",Jambok-geunmu,good,111,6.3
+2005,"Drama, Romance",Jo sok,good,107,6.6
+2005,"Action, Drama, Sport",Jumeogi unda,good,134,7.3
+2005,"Romance, Comedy",Mais Uma Vez Amor,okay,93,5.6
+2005,"Action, Crime, Drama",Muzhskoy sezon. Barkhatnaya revolyutsiya,,117,3.2
+2005,"Comedy, Drama, Romance",A Máquina,good,89,7.5
+2005,Drama,Sal de Prata,okay,97,5.2
+2005,"Crime, Mystery, Thriller",Shou shen,okay,92,5.0
+2005,"Crime, Thriller, Drama",Um Tiro no Escuro,good,105,6.3
+2005,Comedy,The Hole Story,okay,82,5.6
+2005,"Action, Comedy, Drama",Jai Chiranjeeva,okay,174,5.8
+2005,"Drama, Romance",Play,good,100,6.4
+2005,"Comedy, Drama, Romance",The Reception,okay,80,5.8
+2005,Comedy,Il ritorno del Monnezza,,93,3.7
+2005,Drama,Sheng si jie,good,90,6.5
+2005,"Action, Crime",Silent Partner,okay,96,4.6
+2005,"Drama, Western",The Work and the Glory II: American Zion,good,100,6.6
+2005,"Action, Drama, Thriller",Bôkoku no îjisu,okay,126,5.5
+2005,"Comedy, Drama, Family",The Blue Umbrella,good,90,7.6
+2005,"Action, Crime, Drama",Ek Ajnabee,okay,142,5.2
+2005,"Comedy, Romance",Home Delivery: Aapko... Ghar Tak,,151,3.2
+2005,Drama,Nishijapon,good,140,7.1
+2005,Drama,Quanto Vale Ou É Por Quilo?,good,110,7.2
+2005,"Drama, Thriller",Thambi,okay,138,6.0
+2005,Romance,Ullam Ketkumae,good,156,7.1
+2005,Drama,Soldier of God,okay,94,4.6
+2005,Drama,Alice,good,102,7.4
+2005,"Comedy, Drama",La vie avec mon père,good,105,6.6
+2005,"Biography, Drama",Gie,good,147,7.6
+2005,"Crime, Drama",The Great Ecstasy of Robert Carmichael,okay,96,4.8
+2005,"Action, Crime, Drama",Pitbull,good,97,7.0
+2005,Thriller,Thotti Jaya,okay,145,5.9
+2005,"Drama, Romance",Zui hao de shi guang,good,132,7.0
+2005,"Comedy, Drama, War",Kilomètre zéro,good,91,6.1
+2005,"Action, Fantasy",Ashura-jô no hitomi,okay,119,5.9
+2005,"Comedy, Drama, Romance",Lifting de corazón,okay,93,5.8
+2005,"Mystery, Sci-Fi",Pervye na Lune,good,75,6.8
+2005,Drama,Paréntesis,good,97,6.7
+2005,"Adventure, Comedy, Fantasy",Athbhutha Dweepu,okay,127,5.3
+2005,Drama,L'audition,good,111,7.0
+2005,Drama,Eilandgasten,okay,100,5.8
+2005,Comedy,Eminescu versus Eminem,good,80,6.7
+2005,"Action, Drama",Fix Alert,good,95,6.4
+2005,"Biography, Drama, Sport",Maurice Richard,good,124,7.6
+2005,"Drama, Musical",Popsa,good,111,6.2
+2005,"Comedy, Drama",Rappakal,good,137,7.1
+2005,"Action, Drama, Family",Udayon,okay,180,4.3
+2005,"Drama, Music, Romance",Blush,good,55,7.0
+2005,"Comedy, Drama",Crash Test Dummies,good,93,6.4
+2005,"Biography, Drama",The Eyes of Van Gogh,good,111,6.2
+2005,"Horror, Sci-Fi, Thriller",Frankenstein Reborn,,84,3.2
+2005,Drama,Kûchû teien,good,114,7.2
+2005,Crime,Oktoberfest,good,120,6.1
+2005,"Comedy, Romance",Opa!,okay,100,5.9
+2005,"Comedy, Horror",Pervert!,okay,81,4.5
+2005,"Adventure, Comedy, Drama",Les états-Unis d'Albert,okay,91,5.9
+2005,"Crime, Drama, Romance",Cherm,good,100,7.2
+2005,Comedy,Cose da pazzi,good,91,6.5
+2005,"Comedy, Crime, Thriller",Ek Khiladi Ek Haseena,okay,143,5.8
+2005,"Drama, Mystery, Thriller",Kal: Yesterday and Tomorrow,good,120,6.5
+2005,Thriller,Il mistero di Lovecraft - Road to L.,okay,92,5.6
+2005,Comedy,Hôrudo appu daun,good,96,6.6
+2005,Drama,Yawarakai seikatsu,good,126,7.1
+2005,Drama,Umoregi,good,93,6.6
+2005,"Comedy, Drama",Whole New Thing,good,92,6.6
+2005,Drama,Rose,good,93,7.0
+2005,"Drama, Music, Sci-Fi",Eri Eri rema sabakutani,good,107,6.5
+2005,Drama,Geuk jang jeon,good,89,6.9
+2005,"Comedy, Drama",Lü cao di,good,102,6.6
+2005,Drama,Unter dem Eis,good,92,6.8
+2005,"Comedy, Drama, Romance",Unmei janai hito,good,98,7.7
+2005,"Action, Drama",15,okay,95,5.7
+2005,"Crime, Drama",7 vírgenes,good,86,6.3
+2005,"Family, Musical",Bølle Bob og Smukke Sally,bad,72,2.6
+2005,"Crime, Drama",The Magician,good,85,6.7
+2005,Horror,The Beast of Bray Road,okay,80,4.1
+2005,Drama,Bloodline,,88,3.3
+2005,Drama,Buy It Now,okay,58,5.4
+2005,Drama,Fair Game,bad,88,2.6
+2005,"Comedy, Romance",Hula Gods,okay,83,5.8
+2005,Comedy,Mr. Dungbeetle,okay,89,5.1
+2005,"Horror, Thriller",Penny Dreadful,okay,91,5.9
+2005,"Biography, Crime, Drama",The Last Hangman,good,90,7.4
+2005,Drama,Song of Songs,okay,81,4.6
+2005,"Action, Comedy, Crime",Tiempo de valientes,good,112,7.6
+2005,Drama,Frankie,okay,88,5.9
+2005,"Mystery, Thriller",Hyeol-eui-noo,good,119,6.7
+2005,Drama,Na Verkhney Maslovke,good,115,7.0
+2005,"Horror, Mystery, Thriller",Namgeuk-ilgi,okay,115,6.0
+2005,"Comedy, Drama, Thriller",Stories of Lost Souls,okay,90,5.5
+2005,"Crime, Drama, Romance",Yeladim Tovim,okay,75,5.6
+2005,Drama,Southbounders,good,86,6.4
+2005,Drama,La mujer de mi hermano,good,89,6.1
+2005,"Action, Thriller",Bharathchandran I.P.S,okay,120,5.6
+2005,"Action, Thriller",Naran,good,150,7.1
+2005,"Mystery, Thriller",Nerariyan CBI,okay,146,5.8
+2005,"Drama, Romance",Be with Me,good,93,7.0
+2005,"Action, Drama",Confessions of a Pit Fighter,okay,95,4.2
+2005,Drama,Le filmeur,good,97,6.9
+2005,"Action, Drama, Sport",Harder They Fall,,103,3.2
+2005,Comedy,Le cactus,okay,94,5.4
+2005,Drama,Man Push Cart,good,87,7.0
+2005,"Comedy, Drama",Bednye rodstvenniki,good,103,6.2
+2005,"Comedy, Drama, Music",Daenseo-ui sunjeong,good,110,6.9
+2005,"Comedy, Drama",Gan-keun gajok,okay,102,5.9
+2005,Drama,Kosmos kak predchuvstvie,good,90,6.8
+2005,Drama,Taepungtaeyang,okay,107,5.8
+2005,"Comedy, Romance",Yeonae-sulsa,good,106,6.2
+2005,"Comedy, Romance",Yeonae-ui mokjeok,good,121,6.4
+2005,Drama,Bunker paradise,okay,109,5.8
+2005,Drama,Amatemi,okay,84,5.9
+2005,"Drama, Horror",Dark Places,,77,3.3
+2005,Horror,Hallowed,bad,80,2.9
+2005,"Drama, Family",Hoshi ni natta shônen,good,113,6.7
+2005,"Crime, Drama, Thriller",Omiros,good,105,6.1
+2005,"Crime, Drama, Romance",Taga tameni,good,97,7.0
+2005,"Drama, Fantasy",Time of Her Life,,93,3.1
+2005,"Comedy, Drama, Romance","What's Up, Scarlet?",okay,84,5.9
+2005,Thriller,Gimî hebun,okay,122,5.7
+2005,"Comedy, Drama",Grenzverkehr,good,90,6.4
+2005,"Comedy, Drama, Sci-Fi",Pyl,good,107,7.2
+2005,Comedy,Weltverbesserungsmaßnahmen,okay,91,5.8
+2005,War,Vremya sobirat kamni,good,110,6.6
+2005,Comedy,Fekete kefe,okay,83,6.0
+2005,"Drama, Sci-Fi",Hinokio,good,111,6.5
+2005,Drama,L'orizzonte degli eventi,okay,115,5.9
+2005,Drama,Sex hopp & kärlek,okay,93,5.0
+2005,"Animation, Comedy, Drama",Gekijôban XXXHolic Manatsu no yoru no yume,good,60,7.1
+2005,"Comedy, Romance",Zakochany aniol,okay,95,5.7
+2005,"Comedy, Drama, Romance",Almost Normal,okay,90,5.4
+2005,"Comedy, Crime, Drama",Arindhum Ariyamalum,good,132,7.2
+2005,Drama,The Perfect Stranger,good,90,6.7
+2005,"Comedy, Thriller",Hill 16,okay,125,4.9
+2005,Action,Kôshônin: Mashita Masayoshi,good,127,6.1
+2005,"Drama, Horror",Zhai bian,okay,97,5.2
+2005,"Action, Adventure, Drama",Khoht phetchakhaat,okay,87,4.4
+2005,Horror,Shiryôha,okay,77,4.4
+2005,Drama,Bathhouse,okay,107,5.1
+2005,"Drama, Fantasy, Mystery",Buitenspel,okay,90,5.8
+2005,Comedy,Bowser Makes a Movie,,90,3.8
+2005,Horror,Crippled Creek,bad,89,2.6
+2005,Thriller,Experiment,okay,95,5.3
+2005,"Crime, Thriller",Hit Me,okay,80,4.8
+2005,"Action, Western",Ride or Die,bad,75,1.7
+2005,"Crime, Drama",Tsotsi,good,94,7.2
+2005,Drama,Aozora no yukue,good,102,6.4
+2005,"Horror, Thriller",Bunhongsin,okay,103,5.8
+2005,Drama,Daiteiden no yoru ni,good,132,6.8
+2005,Drama,Eize Makom Nifla,good,104,7.0
+2005,"Comedy, Drama",Festival,okay,107,6.0
+2005,"Drama, History, Romance",Haru no yuki,good,150,6.7
+2005,"Crime, Thriller",Hasami otoko,good,124,6.6
+2005,Comedy,Jeuk sing,okay,137,5.8
+2005,"Comedy, Drama, Music",Linda Linda Linda,good,114,7.5
+2005,"Animation, Action, Drama",Kidô senshi Z Gandamu II: Koibito tachi,good,98,6.4
+2005,"Drama, Horror",Noriko no shokutaku,good,159,7.1
+2005,Drama,Sima-ye zani dar doordast,okay,103,6.0
+2005,"Comedy, Fantasy",Mayonaka no Yaji-san Kita-san,good,124,6.4
+2005,"Action, Comedy, Drama",Qing dian da sheng,okay,106,4.9
+2005,"Action, Crime, Thriller",Izzat,good,107,6.3
+2005,"Adventure, Drama, Mystery",Dreaming Lhasa,good,90,6.5
+2005,Drama,Pavee Lackeen: The Traveller Girl,good,88,6.2
+2005,Drama,A Perfect Day,okay,88,6.0
+2005,"Drama, Thriller",Spiele Leben,good,98,6.3
+2005,"Adventure, Drama",Buss till Italien,okay,89,4.7
+2005,Comedy,Loukoumades me meli,okay,86,4.5
+2005,Comedy,Troppo belli,bad,97,2.9
+2005,Comedy,Ya ana ya khalty,okay,90,5.1
+2005,"Crime, Fantasy, Horror",Jom kha mung wej,okay,118,5.5
+2005,"Action, Crime, Thriller",Angli: The Movie,,114,3.6
+2005,"Fantasy, Musical, Romance",Chung buk ji,okay,97,4.9
+2005,"Drama, Horror, Mystery",Saigo no bansan,okay,92,5.8
+2005,Drama,Onaji tsuki wo miteiru,okay,106,5.5
+2005,Comedy,Xin ji chi bu liao re dou fu,good,93,6.3
+2005,Drama,Yek shab,okay,78,5.9
+2005,Thriller,Zhixi,okay,86,5.6
+2005,"Comedy, Sport",Africa United,good,80,6.1
+2005,Crime,Banyo,,87,3.9
+2005,Drama,Brudermord,good,90,6.7
+2005,Drama,Sinema bir mucizedir,okay,103,5.4
+2005,"Action, Comedy, Sci-Fi",Cheon gun,okay,106,6.0
+2005,"Drama, Romance",Comme un frère,okay,54,5.6
+2005,Drama,Keller - Teenage Wasteland,okay,92,5.4
+2005,Drama,Krisana,good,90,6.8
+2005,"Comedy, Musical, Romance",Neal 'N' Nikki,,122,3.2
+2005,"Comedy, Drama",Organize Isler,good,106,7.4
+2005,Drama,Un couple parfait,good,104,6.7
+2005,Drama,Ungu Violet,good,115,6.3
+2005,Drama,Yek teke nan,good,100,7.0
+2005,Horror,Yeogo goedam 4: Moksori,good,104,6.4
+2005,Drama,Love + Hate,good,86,6.9
+2005,Comedy,Dva igraca s klupe,good,112,7.2
+2005,"Action, Drama, Horror",Kamen Raidâ: The First,good,91,6.3
+2005,Comedy,Lopovi prve klase,okay,91,5.7
+2005,"Action, Comedy, Drama",Lung gam wai yi dzi wang mo leung leung,okay,101,5.2
+2005,Comedy,Mama Jack,okay,100,4.4
+2005,"Drama, Thriller",Shinku,good,117,6.7
+2005,Drama,Sto je Iva snimila 21. listopada 2003.,good,92,6.9
+2005,"Comedy, Drama, Romance",Sto je muskarac bez brkova?,good,109,6.9
+2005,Drama,Les états nordiques,good,91,6.6
+2005,"Crime, Drama, Romance",American Visa,good,100,6.1
+2005,"Action, Thriller",Athadu,good,172,8.3
+2005,"Drama, Music, Romance",Nana,good,113,7.1
+2005,Drama,Septyni nematomi zmones,good,119,6.8
+2005,"Drama, Music, Romance",Tyttö sinä olet tähti,good,102,6.5
+2005,Drama,Gisela,good,87,6.1
+2005,Drama,Jazireh ahani,good,90,7.2
+2005,"Mystery, Sci-Fi, Thriller",11:59,okay,102,5.7
+2005,Horror,Infection,okay,81,4.2
+2005,Fantasy,To oneiro tou skylou,good,90,6.2
+2005,"Action, Comedy, Crime",Piano 17,good,105,6.5
+2005,"Drama, Music",Espelho Mágico,good,137,6.8
+2005,Drama,Fyra veckor i juni,okay,100,5.4
+2005,Drama,Koti-ikävä,okay,85,6.0
+2005,Drama,Scrap Heaven,good,117,6.9
+2005,Horror,The Torturer,,100,3.9
+2005,"Comedy, Drama, Romance",Elsk meg i morgen,good,90,6.2
+2005,Drama,O Fatalista,okay,99,5.4
+2005,"Drama, Musical",Johanna,okay,86,5.6
+2005,Drama,Kukumi,good,107,6.7
+2005,Drama,Persona non grata,good,110,6.6
+2005,"Comedy, Drama","Snivaj, zlato moje",good,110,6.3
+2005,"Drama, Horror, Mystery",Happy End.,okay,102,5.9
+2005,Western,Hell to Pay,okay,100,4.6
+2005,"Action, Horror, Sci-Fi",Dead Men Walking,okay,82,4.1
+2005,Horror,Shapeshifter,bad,81,2.6
+2005,"Animation, Action, Drama",Ark,good,84,6.1
+2005,"Drama, Romance, War",...Yahaan,good,142,7.4
+2005,"Mystery, Thriller",Anukokunda Oka Roju,good,145,8.0
+2005,"Drama, Horror, Mystery",Saints-Martyrs-des-Damnés,good,115,6.2
+2005,Comedy,Veninder,,85,3.2
+2005,"Comedy, Drama, Fantasy",Angel-A,good,91,7.1
+2005,Drama,En la cama,good,85,6.2
+2005,Drama,I giorni dell'abbandono,okay,96,5.9
+2005,"Drama, Horror, Mystery",The Maid,okay,93,5.9
+2005,"Comedy, Drama",La seconda notte di nozze,good,103,6.7
+2005,Horror,Tomie: Beginning,okay,74,4.9
+2005,Horror,Tomie: Revenge,okay,72,4.2
+2005,"Comedy, Romance",Yam yasothon,good,93,6.8
+2005,"Crime, Drama, Horror",13 Tzameti,good,93,7.4
+2005,"Drama, Romance",Chang hen ge,okay,115,5.5
+2005,"Drama, Fantasy, Romance",Fetching Cody,good,86,6.7
+2005,"Comedy, Horror",Night of the Day of the Dawn of the Son of the Brid,okay,80,4.2
+2005,"Comedy, Drama, Mystery",Baksu-chiltae deonara,good,115,6.3
+2005,"Horror, Mystery",Chello hongmijoo ilga salinsagan,okay,94,6.0
+2005,"Comedy, Romance",Qian bei bu zui,okay,110,5.9
+2005,Comedy,Desde que amanece apetece,okay,115,4.0
+2005,"Crime, Thriller",Yu-wol-ui il-gi,good,105,6.4
+2005,"Drama, Horror",Gabal,okay,106,5.5
+2005,"Action, Comedy, Mystery",Hyeongsa,okay,108,5.9
+2005,Drama,Shikhar,okay,162,4.9
+2005,"Drama, Family",June R,okay,99,5.0
+2005,Romance,Kono mune ippai no ai wo,good,132,6.3
+2005,"Comedy, Drama, Family",Vaah! Life Ho Toh Aisi!,okay,153,4.4
+2005,"Comedy, Drama, Romance",Saedeu mubi,good,108,7.3
+2005,"Action, Drama, Fantasy",Shinobi,good,107,6.9
+2005,"Action, Comedy",Super,okay,151,5.0
+2005,Action,Tae-poong,okay,124,5.8
+2005,"Action, Drama",Thirupaachi,okay,178,5.8
+2005,"Drama, Romance",Tokyo Tower,good,125,6.2
+2005,"Comedy, Drama, War",Welkkeom tu Dongmakgol,good,133,7.7
+2005,Family,Inu no eiga,good,96,6.9
+2005,"Comedy, Drama",Odgrobadogroba,good,103,6.9
+2005,Comedy,Aupa Etxebeste!,good,97,6.2
+2005,"Comedy, Crime, Drama",Bluffmaster!,good,137,6.6
+2005,"Comedy, Family, Romance",Meet Me in Miami,good,94,6.9
+2005,"Drama, Family",Babam ve Oglum,good,108,8.3
+2005,"Comedy, Crime",Czas surferów,okay,90,6.0
+2005,"Action, Comedy, Romance",Maja,okay,139,5.2
+2005,"Comedy, Drama, Family",Ramji Londonwaley,good,154,6.7
+2005,"Biography, Drama, Music",Skazany na bluesa,good,101,7.0
+2005,Drama,Urlaub vom Leben,good,83,7.1
+2005,Drama,Diário de Um Novo Mundo,good,94,6.2
+2005,"Drama, Romance, Thriller",Aashiq Banaya Aapne: Love Takes Over,okay,115,4.2
+2005,Romance,Allari Bullodu,bad,175,2.9
+2005,"Drama, Fantasy",À travers la forêt,good,65,6.6
+2005,"Comedy, Drama",The Cabin Movie,okay,90,4.7
+2005,"Horror, Thriller",Fu-Rai,okay,75,5.1
+2005,"Comedy, Drama",El-sefara fi El-Omara,good,107,6.3
+2005,"Drama, Romance",Café Transit,good,107,7.3
+2005,Drama,Dame sobh,good,82,7.0
+2005,Drama,Hong yan,good,93,6.9
+2005,"Action, Crime, Drama",Sehar,good,125,7.8
+2005,Drama,Sommer vorm Balkon,good,107,6.9
+2005,Drama,Sud express,good,102,6.8
+2005,"Comedy, Drama, Sci-Fi",Tung mung kei yun,good,92,6.7
+2005,"Comedy, Drama",Viva Cuba,good,80,6.9
+2005,Drama,Kinetta,okay,95,4.8
+2005,Drama,Masahista,okay,76,6.0
+2005,"Action, Crime, Thriller",Saat po long,good,93,7.0
+2005,Drama,Sa-kwa,good,118,6.4
+2005,"Comedy, Drama, Fantasy",Takeshis',good,108,6.4
+2005,Drama,Jestem,good,93,7.3
+2005,"Action, Adventure, Fantasy",King of the Lost World,bad,80,2.4
+2005,"Drama, Romance",A New Day in Old Sana'a,good,83,6.2
+2005,"Drama, Romance",Sex o phalsapheh,okay,105,5.3
+2005,Comedy,Shades of Gray,okay,76,6.0
+2005,Horror,Snakewoman,,98,3.2
+2005,Thriller,Hidden,okay,93,4.1
+2005,Drama,Crime Delicado,good,87,6.1
+2005,"Music, Romance",Maroa,good,102,6.5
+2005,"Drama, Romance",Itsuka dokusho suruhi,good,127,6.9
+2005,"Action, Crime",Tse bing,okay,95,5.3
+2005,"Drama, Horror, Thriller",Bad Reputation,okay,90,4.2
+2005,"Fantasy, Horror, Mystery",The Call of Cthulhu,good,47,7.2
+2005,Drama,Karov La Bayit,good,98,6.9
+2005,"Biography, Drama, Family",The Goal,okay,100,4.7
+2005,"Crime, Drama",Rastegari dar 8:20,okay,107,4.9
+2005,Drama,El taxista ful,good,90,6.8
+2005,Thriller,Masz na imie Justine,good,97,6.4
+2005,"Biography, Drama, Romance","Pare osób, maly czas",good,104,6.7
+2005,"Crime, Drama",Rozdroze Cafe,good,112,6.3
+2005,Comedy,Potera za Srec(k)om,okay,97,5.8
+2005,Drama,Ang pagdadalaga ni Maximo Oliveros,good,100,7.1
+2005,Drama,"Annyeong, hyeonga",good,95,6.8
+2005,"Action, Comedy, Crime",Gamunui wigi: Gamunui yeonggwang 2,okay,115,5.9
+2005,Comedy,Mapado,okay,105,6.0
+2005,Comedy,Mi-seu-teo joo-boo-kwi-jeu-wang,good,107,6.1
+2005,Drama,Naesaengae gajang areumdawun iljuil,good,129,6.8
+2005,"Drama, Romance",Neoneun nae unmyeong,good,121,7.0
+2005,Horror,Cutting Room!,okay,75,4.3
+2005,"Drama, Romance",Dunia,okay,112,5.9
+2005,Drama,Komornik,good,100,7.0
+2005,"Comedy, Drama, Mystery",Open Cam,okay,100,4.6
+2005,Drama,Parnikovyy effekt,good,93,6.5
+2005,Drama,La Sagrada Familia,good,99,6.3
+2005,"Adventure, Comedy, Family",Mein Name ist Eugen,good,100,6.9
+2005,Action,Geochilmaru,okay,86,5.7
+2005,"Drama, Romance",Kochankowie z Marony,okay,107,5.7
+2005,"Action, Adventure, Drama",Gaseirneba Karabaghshi,good,105,7.9
+2005,Drama,Oda do radosci,good,118,6.6
+2005,Horror,Die Zombiejäger,bad,85,2.5
+2005,Comedy,Natale a Miami,,100,3.9
+2005,Drama,Mai + come prima,good,106,6.1
+2005,Comedy,Shoshelet Schwartz,good,99,7.0
+2005,Horror,The Retreat,bad,90,2.8
+2005,"Drama, Romance",Sarangni,okay,115,5.5
+2005,"Drama, Music",Yamim Shel Ahava,bad,110,2.7
+2005,"Comedy, Fantasy, Horror",Doll Graveyard,okay,71,4.1
+2005,Comedy,For Catherine,,107,3.3
+2005,"Action, Comedy",Rajamanikyam,good,126,7.7
+2005,Drama,Thanmathra,good,160,8.3
+2005,"Action, Thriller",The Tiger,good,152,6.6
+2005,Drama,Il vento fa il suo giro,good,110,7.4
+2005,"Comedy, Drama",Padre Nuestro,good,105,6.3
+2005,Drama,"Kheili dour, kheili nazdik",good,121,7.5
+2005,"Drama, Romance",Pheuan sanit,good,90,7.9
+2005,Horror,Gwai muk,okay,99,5.7
+2005,"Drama, Romance",Tsoi suet yuk chi ngo oi nei,okay,102,5.9
+2005,Action,Sree,okay,135,5.4
+2005,"Drama, Family, Romance",Türev,good,91,6.5
+2005,Comedy,L'iceberg,good,84,6.7
+2005,Comedy,Döngel kârhanesi,okay,92,5.6
+2005,"Comedy, Music",I horodia tou Haritona,good,135,6.7
+2005,"Adventure, Family, Romance","Percy, Buffalo Bill och jag",okay,83,5.5
+2005,"Action, Comedy",The GoodTimesKid,good,77,6.5
+2005,Drama,Zan-e ziadi,okay,103,5.4
+2005,Drama,Masterclass,good,70,7.0
+2005,"Animation, Action, Adventu",Gekijô-ban hagane no renkinjutsushi: Shanbara wo yu,good,105,7.4
+2005,"Comedy, Drama, Romance","Main, Meri Patni... Aur Woh!",good,129,7.3
+2005,"Comedy, Romance",Yasuwa minyeo,good,102,6.6
+2005,Drama,Apocalipsur,good,101,6.9
+2005,"Comedy, Drama",El colombian dream,good,120,6.8
+2005,Drama,A Life in Suitcases,good,120,6.1
+2005,Horror,Lie Still,okay,80,4.3
+2005,Drama,Molly's Way,good,84,6.3
+2005,"Comedy, Crime",Maskeli Besler: Intikam Pesinde,okay,89,4.2
+2005,Drama,Sen ne dilersen,good,115,6.4
+2005,Horror,The Vampire Conspiracy,,90,3.0
+2005,"Drama, Romance",Shaere zobale-ha,okay,80,5.6
+2005,"Drama, Fantasy, Horror",Anandabhadram,good,130,7.1
+2005,Comedy,"Egy szoknya, egy nadrág",,95,3.2
+2005,"Action, Drama",O Crime do Padre Amaro,okay,100,5.3
+2005,"Horror, Sci-Fi",Day X,,81,3.5
+2005,Fantasy,Dreamer,good,98,7.1
+2005,Comedy,"Qiuqiu ni, biaoyang wo",good,95,6.5
+2005,Romance,"Sonyeon, Cheonguk-e gada",good,110,6.5
+2005,Horror,Zu zhou,okay,91,5.0
+2005,"Crime, Drama, Mystery",Orora gongju,good,106,6.6
+2005,"Drama, Romance",Parang-juuibo,good,95,7.2
+2005,Drama,Ein ganz gewöhnlicher Jude,good,89,7.0
+2005,Drama,Gerumaniumu no yoru,good,107,6.4
+2005,Horror,Umezu Kazuo: Kyôfu gekijô - Mushi-tachi no ie,okay,51,5.4
+2005,Horror,Umezu Kazuo: Kyôfu gekijô - Purezento,okay,49,4.9
+2005,Horror,Rap nawng sayawng khwan,okay,81,5.3
+2005,"Action, Comedy, Fantasy",Seua khaap daap,okay,91,4.5
+2005,"Comedy, Romance",Gwangshiki dongsaeng gwangtae,good,104,6.7
+2005,"Action, Crime",Miseuteo Sokeurateseu,good,109,6.3
+2005,"Action, Adventure, History",Muyeong geom,good,117,6.5
+2005,Drama,Garpastum,good,116,6.5
+2005,Animation,Hanuman,good,89,7.3
+2005,"Comedy, Drama, Romance",Koi Aap Sa: But Lovers Have to Be Friends,okay,142,5.4
+2005,"Comedy, Drama",Stockholm Boogie,good,82,6.3
+2005,"Drama, Family",Always san-chôme no yûhi,good,133,7.7
+2005,"Action, Crime, Drama",Circadian Rhythm,bad,90,1.9
+2005,"Action, Adventure, Crime",Dangerous Men,okay,80,4.4
+2005,"Crime, Drama",Hak bak jin cheung,good,90,6.5
+2005,"Horror, Thriller",Strange Aeons: The Thing on the Doorstep,okay,78,4.9
+2005,Comedy,Jeuk sing 2 gi ji mor tin hau,okay,96,5.5
+2005,"Drama, Romance, Sport",Tatchi,good,116,6.2
+2005,Comedy,Pitbullterje,okay,90,5.7
+2005,Horror,Umezu Kazuo: Kyôfu gekijô - Zesshoku,okay,67,5.0
+2005,"Comedy, Drama",Ching yi ngor sum gi,good,95,6.1
+2005,Drama,Shissô,good,124,7.0
+2005,"Comedy, Crime, Mystery",Yôgisha: Muroi Shinji,okay,117,4.7
+2005,Drama,Hayat,good,80,7.1
+2005,"Horror, Mystery",Haze,good,49,6.6
+2005,Horror,In Memorium,okay,73,4.7
+2005,Drama,Om Sara,okay,108,6.0
+2005,Drama,Piteopaeneui gongshik,good,109,6.6
+2005,"Drama, Romance",Aein,okay,98,5.9
+2005,"Comedy, Romance",Jakeob-ui jeongseok,okay,100,6.0
+2005,"Comedy, Drama",Naui gyeolhon wonjeonggi,good,120,6.5
+2005,"Drama, Horror, Mystery",Kimyô na sâkasu,good,108,7.0
+2005,"Drama, History",Wang-ui namja,good,119,7.4
+2005,Drama,A Concepção,okay,96,5.5
+2005,Drama,Eu Me Lembro,good,108,6.1
+2005,"Comedy, Family, Fantasy",Andel páne,good,90,6.9
+2005,Comedy,Ti amo in tutte le lingue del mondo,okay,99,5.8
+2005,"Horror, Thriller",Andrea,okay,110,4.4
+2005,"Comedy, Drama",Sinus,okay,114,5.3
+2005,Drama,Liebeskind,okay,85,5.7
+2005,"Animation, Comedy, Family",Pettson & Findus - Tomtemaskinen,good,79,6.3
+2005,Horror,Purei,okay,77,5.2
+2005,"Comedy, Thriller",Hababam Sinifi Üç Buçuk,bad,98,2.8
+2005,Drama,Agrypnia,good,102,6.3
+2005,Drama,Ichi ritoru no namida,good,98,7.9
+2005,"Drama, Sci-Fi",The Zero Years,good,123,6.4
+2005,"Comedy, Drama, Romance",Rainbow boy... Rung tua thii paet khawng khwaam rak,okay,100,5.5
+2005,"Action, Crime, Drama",Sum muepuen,okay,95,5.2
+2005,Drama,Yuki ni negau koto,good,112,6.8
+2005,Drama,Mun mot mun,good,94,6.1
+2005,"Animation, Family, Sci-Fi",Xuxinha e Guto Contra os Monstros do Espaço,bad,85,1.6
+2005,"Musical, War",Bosta,good,142,6.5
+2005,Drama,Guerilla Marketing,good,90,7.1
+2005,Action,Sandai Kozhi,good,151,6.9
+2005,Drama,4:30,good,93,6.6
+2005,"Comedy, Drama, Romance","Mi abuelo, mi papá y yo",good,95,6.1
+2005,"Drama, Horror, Mystery",Ido,okay,104,4.6
+2005,"Animation, Adventure, Dram",Arashi no yoru ni,good,110,7.0
+2005,"Comedy, Sci-Fi",Samâ taimu mashin burûsu,good,107,7.2
+2005,"Drama, Romance",Gol-e yakh,okay,94,4.0
+2005,"Action, Crime, Drama",Kalyug,good,126,6.5
+2005,Drama,Yongseobadji mothan ja,good,121,6.8
+2005,Drama,Barrio Cuba,good,105,6.2
+2005,"Fantasy, Horror, Mystery",Long khong,okay,100,5.9
+2005,Drama,Ninas resa,good,120,6.7
+2005,Comedy,Loufa kai parallagi: Seirines sto Aigaio,okay,115,5.5
+2005,"Drama, Mystery, Thriller",Yamim Kfuim,good,90,6.9
+2005,Horror,Mexican Werewolf in Texas,bad,88,2.9
+2005,Drama,Wo men lia,good,88,7.3
+2005,"Drama, Mystery, Sci-Fi",Nuit noire,good,90,6.6
+2005,"Horror, Thriller",Bûsu,good,73,6.6
+2005,"Comedy, Romance",Harim Karim,okay,117,4.3
+2005,Thriller,Posledniy uik-end,good,91,6.4
+2005,"Action, Adventure, Drama",Tainos,okay,117,5.4
+2005,"Drama, Fantasy, Romance",Ren yu duo duo,okay,94,5.8
+2005,Drama,Thavamai Thavamiruntu,good,180,7.8
+2005,"Adventure, Comedy, Drama",?,okay,112,5.3
+2005,"Drama, Romance",Innocent,okay,80,5.6
+2005,Drama,Ne khlebom edinym,good,112,6.6
+2005,Comedy,Ssunday Seoul,okay,95,5.7
+2005,Drama,Amnesia: The James Brighton Enigma,good,90,6.2
+2005,"Comedy, Musical",Maxx,good,110,6.1
+2005,"Drama, Romance",Su-ki-da,good,104,7.0
+2005,Drama,Un día sin sexo,okay,86,4.9
+2005,"History, War",Vilniaus getas,good,110,6.8
+2005,Horror,Hu gu po,bad,95,1.4
+2005,"Animation, Adventure, Come",Gekijô-ban Naruto: Daigekitotsu! Maboroshi no chite,good,97,6.6
+2005,"Drama, Thriller",Zulo,okay,82,4.7
+2005,Drama,Grodmin,bad,90,2.1
+2005,"Crime, Drama",Hazard,good,103,6.9
+2005,Action,Bhadra,good,153,6.7
+2005,Drama,Sangue: La morte non esiste,good,104,6.8
+2005,"Animation, Adventure, Dram",Air,good,91,6.9
+2005,Horror,Kaidan Shin Mimibukuro: Yûrei manshon,good,93,6.2
+2005,"Comedy, Romance",Kanda Naal Mudhal,good,129,7.2
+2005,Comedy,Tapete Vermelho,good,100,7.0
+2005,"Action, Comedy, Horror",To kako,okay,83,5.5
+2005,Comedy,Dondurmam Gaymak,good,100,6.6
+2005,"Drama, Horror, Mystery",Resurrection Mary,,98,3.4
+2005,"Comedy, Drama, Romance",Ithikon akmaiotaton,,93,3.6
+2005,"Action, Horror, Sci-Fi",Meatball Machine,okay,90,5.7
+2005,"Comedy, Drama",L'educazione sentimentale di Eugénie,okay,83,4.2
+2005,"Action, Fantasy, Sci-Fi",Saishû heiki kanojo,okay,120,4.7
+2005,"Comedy, Romance",Zaky Chan,good,114,6.5
+2005,"Fantasy, Romance",Tenshi,good,117,6.2
+2005,"Comedy, Crime, Drama",Koara kachô,okay,85,5.9
+2005,Drama,Uttarayan,good,91,7.1
+2005,"Drama, Thriller",Dombivli Fast,good,108,8.1
+2005,"Comedy, Drama",Quarta B,good,93,6.1
+2005,"Comedy, Drama",I gynaika einai... skliros anthropos,okay,100,4.9
+2005,Comedy,Midioda matarebeli,good,77,6.3
+2005,"Action, Drama",Chatrapathi,good,158,7.6
+2005,"Comedy, Family, Fantasy",The Lost Princess,bad,75,2.2
+2005,"History, War",Tai Hang shan shang,okay,117,5.3
+2005,"Comedy, Drama",I kardia tou ktinous,good,82,6.3
+2005,Comedy,Rama Shama Bhama,good,180,7.7
+2005,"Animation, Action, Adventu",Gekijouban Poketto monsutâ Adobansu jenerêshon: Myu,good,103,6.9
+2005,"Drama, Romance",Mahiha ashegh mishavand,good,96,6.9
+2005,Comedy,Sex mashin: Hiwai na kisetsu,okay,64,5.4
+2005,Drama,Enjo-kôsai monogatari: shitagaru onna-tachi,okay,65,5.3
+2005,"Action, Drama",Athanokkade,good,147,6.7
+2005,"Animation, Family","Loranga, Masarin & Dartanjang",good,52,6.7
+2005,Action,Political Rowdy,okay,155,5.2
+2005,Action,Veerabhadra,bad,169,2.6
+2005,"Horror, Mystery, Thriller",Noroi,good,115,7.0
+2005,"Action, Drama",Andhrudu,good,155,6.5
+2005,"Action, Drama",Sukran,,165,3.2
+2005,"Action, Drama, Romance",Allari Pidugu,bad,171,2.7
+2005,Romance,Vennela,good,133,7.0
+2005,Drama,Don de Dios,okay,90,4.2
+2005,Comedy,Kay Dyache Bola,good,103,7.1
+2005,Comedy,Tsiou...,good,83,6.9
+2005,Comedy,Koi wa go-shichi-go!,bad,105,1.9
+2005,Horror,Zoo,good,120,6.9
+2005,"Animation, Action, Adventu",One piece: Omatsuri danshaku to himitsu no shima,good,88,7.2
+2005,"Crime, Drama, Thriller",Aksharaya,okay,136,5.4
+2005,"Drama, Romance",Tan Lines,okay,96,5.3
+2005,Comedy,Catatan Akhir Sekolah,good,109,7.3
+2005,"Adventure, Comedy, Drama",Pak Pak Pakaak,good,138,7.3
+2005,"Action, Comedy, Fantasy",Nochnoy bazar,okay,116,4.3
+2005,"Drama, Horror, Thriller",Kannô byôtô: nureta akai kuchibiru,okay,63,4.8
+2005,Drama,Aqvariom,,90,3.5
+2005,"Animation, Action, Adventu",Meitantei Conan: Suiheisenjyou no sutorateeji,good,108,7.1
+2005,"Action, Adventure, Comedy",Yi shi er niao,,93,3.5
+2005,Drama,Galazio forema,okay,108,5.3
+2005,"Comedy, Drama",Nama-natsu,okay,57,5.3
+2005,"Animation, Action, Sci-Fi",Dejitaru monsuta no X-shinka,good,80,6.7
+2005,"Crime, Drama, Horror",Cheap,good,117,6.7
+2005,"Action, Adventure, Crime",Double Down,okay,93,4.6
+2005,Thriller,Danger,good,125,6.4
+2005,Action,Meesrti,,90,3.6
+2005,"Comedy, Drama, Family",Haajar Bachhar Dhorey,good,137,8.0
+2005,"Comedy, Drama, Family",Molla Barir Bou,good,156,6.9
+2005,"Drama, Romance",El-Haya Montaha El-lazza,okay,145,4.5
+2005,"Comedy, Family, Musical",Al Abaa' al Sighar,okay,90,5.9
+2005,"Action, Comedy, Fantasy",Sharlatan,bad,81,2.5
+2005,Musical,Paskutiniai Bremeno muzikantai,good,90,8.0
+2005,Comedy,Malesh Ehna Benetbahdel,okay,90,5.7
+2005,Comedy,The Angrez,good,110,7.3
+2005,"Horror, Mystery",A Film by Aravind,good,150,7.0
+2005,Comedy,Laylat Seqout Baghdad,okay,109,5.3
+2005,Animation,Hot Wheels Acceleracers the Ultimate Race,good,60,7.0
+2005,Family,Eial Habeba,okay,130,4.6
+2005,"Drama, Mystery",Neghab,good,90,6.1
